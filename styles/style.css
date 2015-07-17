@@ -6,17 +6,21 @@
 
 div.page-header {
     padding-top: 2px;
-    padding-bottom:8px;
+    padding-bottom: 8px;
 }
 
 h1.section-header {
     padding-top: 4px;
-    padding-bottom:2px;
+    padding-bottom: 2px;
     color: burlywood;
     font-variant: small-caps;
 }
 
-h3.license {
+h2.license {
     color: crimson;
+    font-variant: small-caps;
+}
+
+h3.content-header {
     font-variant: small-caps;
 }
