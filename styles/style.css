@@ -12,5 +12,11 @@ div.page-header {
 h1.section-header {
     padding-top: 4px;
     padding-bottom:2px;
+    color: burlywood;
+    font-variant: small-caps;
+}
 
+h3.license {
+    color: crimson;
+    font-variant: small-caps;
 }
