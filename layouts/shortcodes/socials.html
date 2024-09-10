@@ -1,0 +1,13 @@
+<div class="social-icons" align="center">
+    {{- range site.Params.contentSocials }}
+    {{ if strings.HasPrefix .url "http" }} 
+    <a 
+        href="{{ trim .url " " | safeURL }}" 
+        title="{{ (.title | default .name) | title }}" 
+        target="_blank" rel="noopener noreferrer" 
+        id="imagelink">
+        {{ partial "svg.html" . }}
+    </a>
+    {{ end }}
+    {{- end }}
+</div>

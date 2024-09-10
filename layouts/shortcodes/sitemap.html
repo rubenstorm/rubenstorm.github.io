@@ -1,0 +1,22 @@
+{{ define "sitemaphira" }}
+{{ if .Pages }}
+<ul>
+    {{ range .Pages}}
+    {{ if not .Params.hideSitemap }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ template "sitemaphira" . }}
+    </li>
+    {{ end }}
+    {{ end }}
+</ul>
+{{ end }}
+{{ end }}
+
+<ul>
+{{ range .Site.Sections }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ template "sitemaphira" . }}</li>
+{{ end }}
+</ul>
+
+

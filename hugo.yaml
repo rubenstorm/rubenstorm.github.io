@@ -1,0 +1,186 @@
+# baseURL: "https://rubensblog.github.io/"
+baseURL: "http://localhost:1313/"
+languageCode: en-us
+title: Ruben Storm
+# theme: ["PaperMod"]
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+# googleAnalytics:
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+languages:
+  de:
+    contentDir: content/de
+    disabled: false
+    languageCode: de-DE
+    languageDirection: ltr
+    languageName: Deutsch
+    params:
+      subtitle: Entdecken. Gestalten. Aufblühen. Erlebe das Nomadenleben mit Reisen, Krypto und Minimalismus.
+    title: Ruben Storm
+    pagination:
+      disableAliases: true
+      pagerSize: 10
+      path: page
+    weight: 1
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Explore. Create. Thrive. Embrace the Nomadic Life with Travel, Crypto, and Minimalism.
+    title: Ruben Storm
+    pagination:
+      disableAliases: true
+      pagerSize: 10
+      path: page
+    weight: 2
+
+
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Ruben Storm
+  description: "Discover the ultimate guide to a digital nomad lifestyle with travel tips, NFT and crypto insights, minimalist living, and vlogging adventures. Explore sustainable travel and remote work inspiration for the modern explorer."
+  keywords: [Travel Blog, Digital Nomad, Minimalist Lifestyle, NFT Trends, Crypto Insights, Remote Work, Vlogging Adventures, Sustainable Travel, Blockchain in Lifestyle, Nomadic Living Tips]
+  author: Ruben Storm
+  # author: ["Me", "You"] # multiple authors
+  images: ["/logos/rubenstorm-400.png"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  Social: true
+
+  mainSections:
+    - posts
+    - updates
+    - recipes
+    - vlog
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    # title: Ruben Storm
+    # subtitle: "This is subtitle"
+    imageUrl: "/images/profile/me-1.webp"
+    imageWidth: 120
+    imageHeight: 120
+    
+  socialIcons:
+    - name: paypal
+      url: "https://paypal.me/rubenstorm"
+    - name: bitcoin
+      url: "WALLET"
+    - name: github
+      url: "https://github.com/"
+    - name: x
+      url: "https://x.com/rubenstorm"
+    - name: youtube
+      url: "https://youtube.com"
+    - name: flickr
+      url: "FLICKR"
+    - name: instagram
+      url: "insta"
+    - name: "telegram"
+      url: "pages/telegram/"
+
+  contentSocials: 
+    - name: x
+      url: "https://x.com/rubenstorm"
+    - name: instagram
+      url: "https://instagram.com"
+
+
+  # Footer
+  hideCopyright: false
+  hideVendorCopyright: true
+  hideFooter: false
+  hideFooterHome: false # To be implemented
+  hideFooterNav: true
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: true
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  ShareButtons: [
+      "linkedin",
+      "twitter",
+      "facebook",
+      "reddit",
+      "whatsapp",
+      "telegram",
+    ] # To customize which share buttons to be enabled on page
+  label:
+    text: ""
+    # icon: /logos/rubenstorm-500.png
+    iconHeight: 75
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "favicon.png"
+    safari_pinned_tab: "favicon.svg"
+  # home-info mode
+  # homeInfoParams:
+    # Title: "Hi there \U0001F44B"
+    # Content: Welcome to my blog
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+  outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON # necessary for search
+
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+
+
+
+
