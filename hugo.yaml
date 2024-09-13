@@ -65,9 +65,7 @@ params:
 
   mainSections:
     - posts
-    - updates
-    - recipes
-    - vlog
+    - news
 
   # profile-mode
   profileMode:
@@ -80,19 +78,17 @@ params:
     
   socialIcons:
     - name: paypal
-      url: "https://paypal.me/rubenstorm"
+      url: "https://paypal.me/rubenstorm/15"
     - name: bitcoin
-      url: "WALLET"
+      url: "donation/bitcoin-donation/"
     - name: github
       url: "https://github.com/"
     - name: x
       url: "https://x.com/rubenstorm"
     - name: youtube
       url: "https://youtube.com"
-    - name: flickr
-      url: "FLICKR"
     - name: instagram
-      url: "insta"
+      url: "pages/social-media/instagram/"
     - name: "telegram"
       url: "pages/telegram/"
 
@@ -119,7 +115,7 @@ params:
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
-  disableScrollToTop: true
+  disableScrollToTop: false
   comments: false
   hidemeta: false
   hideSummary: false
