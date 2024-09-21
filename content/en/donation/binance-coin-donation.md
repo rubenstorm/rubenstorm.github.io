@@ -34,8 +34,7 @@ cover:
 
 ---
 
-**Support My Work**  
-## BNB (BEP20) Donations
+**Support My Work** 
 
 You can contribute anonymously to my BSC wallet using the details provided below. If you prefer to donate via a different cryptocurrency or have another donation plan in mind, feel free to scroll down for more options.
 

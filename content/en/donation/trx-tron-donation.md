@@ -34,8 +34,7 @@ cover:
 
 ---
 
-**Financial Assistance**  
-## TRX (Tron) Donations
+**Financial Assistance** 
 
 You can make anonymous donations in TRX (Tron) to the wallet address provided below. If you prefer to use a different cryptocurrency or have another donation plan in mind, please scroll down for additional options.
 
@@ -61,7 +60,7 @@ If your phone cannot scan the QR code, you can copy the wallet address by clicki
 
 ## Other Donation Options
 
-If you'd like to donate with [Bitcoin][defDonateBitcoinLink] or another [cryptocurrency][defDonationLink], you can view a list of donation plans [here][defDonationLink]. For ongoing support, consider becoming one of my [Patreons][defPatreonLink]. If you prefer to make a one-time donation, you can use [PayPal][defPaypalLink]. Your support is greatly appreciated!
+If you'd like to donate with [Bitcoin][defDonateBitcoinLink] or another [cryptocurrency][defDonationLink], you can view a list of donation plans [here][defDonationLink]. For ongoing support, consider becoming one of my [Patreons][defPatreonLink]. If you prefer to make a one-time donation, you can use [PayPal][defPaypalLink]. Your support is greatly appreciated! 
 
 [defPatreonLink]: /en/pages/patreon/
 [defDonationLink]: /en/donation/

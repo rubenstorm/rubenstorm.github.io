@@ -26,16 +26,15 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
-    image: "" # image path/url
+    image: "/images/header-donate-sfp.webp" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 
 ---
 
-**Support My Work**
-## SafePal Donations
+**Support My Work** 
 
 If you'd like to support me, you can donate anonymously to my BSC wallet below. If you prefer to use a different cryptocurrency or donation method, just scroll down for more options.
 

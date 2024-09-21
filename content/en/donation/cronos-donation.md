@@ -36,8 +36,6 @@ cover:
 
 **Support My Work**
 
-## Donate via Cronos
-
 You can make an anonymous donation to my Cronos wallet using the details provided below. If you prefer a different cryptocurrency or donation method, just scroll down for more options.
 
 ### Important Note

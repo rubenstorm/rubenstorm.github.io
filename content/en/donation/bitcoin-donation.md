@@ -35,7 +35,6 @@ cover:
 ---
 
 **Support My Journey**
-## Bitcoin Donations
 
 You can contribute anonymously to my Bitcoin wallet using the details below. If you prefer a different cryptocurrency or donation method, just scroll down a bit for more options.
 

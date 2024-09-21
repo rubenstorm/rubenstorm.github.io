@@ -35,7 +35,6 @@ cover:
 ---
 
 **Unterstütze meine Reise**
-## Bitcoin-Spenden
 
 Du kannst anonym zu meiner Bitcoin-Wallet beitragen, indem du die untenstehenden Details verwendest. Falls du eine andere Kryptowährung oder eine alternative Zahlungsmethode bevorzugst, scrolle einfach ein wenig nach unten für weitere Optionen.
 
