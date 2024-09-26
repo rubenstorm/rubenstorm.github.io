@@ -19,7 +19,7 @@ kind: section
 ![][HeaderImage]
 
 ## NFTs
-### Non-Fungible Tokens
+**Non-Fungible Tokens**
 
 A non-fungible token (NFT) is a unique digital asset that cannot be replicated, exchanged on a one-to-one basis, or divided into smaller parts. Stored on a blockchain, NFTs verify both authenticity and ownership. The blockchain tracks each NFT's ownership, enabling owners to transfer, sell, and trade these assets.
 
@@ -34,4 +34,4 @@ In this section, explore my digital art (NFTs) and discover where to purchase th
 
 
 [HeaderImage]: /images/header-nft.webp
-[defFAQlink]: /en/faq
+[defFAQlink]: /en/faq/nft-faq
