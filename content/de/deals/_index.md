@@ -11,7 +11,7 @@ hideSitemap: false
 menu: 
     main:
         weight: 30
-        name: deals
+        name: angebote
 taxonomy: section
 kind: section
 ---

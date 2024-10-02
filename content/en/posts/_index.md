@@ -9,8 +9,9 @@ lang: en
 author: Ruben Storm
 hideSitemap: false
 menu: 
-    buttons:
-        weight: 80
+    main:
+        weight: 44
+        name: blog
 taxonomy: section
 kind: section
 ---
