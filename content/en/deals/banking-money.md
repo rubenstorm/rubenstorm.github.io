@@ -58,7 +58,7 @@ Revolut is a neobank with licenses and regulations across the European Union, pr
 
 *This offer is time-sensitive.*
 
-**This link is valid until October 1, 2024. To meet the requirements, you must register, order the debit card, and make three purchases of €5 or more with it. All steps must be completed by October 1.**
+**This link is valid until October 22, 2024. To meet the requirements, you must register, order the debit card, and make three purchases of €5 or more with it. All steps must be completed by October 1.**
 
 
 [Register now with this link][defRevolutLink]
@@ -142,4 +142,4 @@ Set up your Plutus account to start earning 3% cashback on all payments. Enjoy a
 [defRemitlyLink]: https://remit.ly/3n26xnwa
 [defNexoLink]: https://nexo.com/ref/vt66vqx9wu?src=android-link
 [defPlutusLink]: https://dex.plutus.it/auth/referee/signup?refId=l9O0ig
-[defRevolutLink]: https://revolut.com/referral/?referral-code=rubensczek!SEP1-24-VR-DE
+[defRevolutLink]: https://revolut.com/referral/?referral-code=rubensczek!OCT1-24-AR-H2
