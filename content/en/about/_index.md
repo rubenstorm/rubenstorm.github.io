@@ -29,8 +29,6 @@ A wanderer and minimalist who finds joy in the simple and beautiful aspects of l
 
 My family arrived in Germany as refugees before I was born, adjusting well and embracing the opportunities presented to them. They were able to build a house as part of a refugee project, and I was born just as this house was completed and the garden was growing. My childhood was spent in a peaceful, quiet community on the outskirts of a small town near Stuttgart.
 
-## Nice to Meet You, I’m Ruben Storm
-
 ![][defMeCenterImage]
 
 In 2017, I began part-time traveling, and by 2018, I found myself fully immersed in a nomadic lifestyle—a path I hadn’t originally planned, but one that unfolded step by step. By 2020, an unexpected accident led me to adopt minimalism; I could no longer manage my large backpack, which inadvertently shifted my approach to living. I’ll share more about my journey into nomadism and minimalism in an upcoming update.

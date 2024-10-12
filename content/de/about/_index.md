@@ -28,8 +28,6 @@ Ein Wanderer und Minimalist, der Freude an den einfachen und schönen Aspekten d
 
 Meine Familie kam vor meiner Geburt als Flüchtlinge nach Deutschland und fand sich schnell in ihrer neuen Umgebung zurecht, indem sie die gebotenen Chancen ergriff. Im Rahmen eines Flüchtlingsprojekts konnten sie ein Haus bauen, und ich kam zur Welt, als dieses Haus gerade fertiggestellt war und der Garten bereits wuchs. Meine Kindheit verbrachte ich in einer ruhigen, friedlichen Gemeinde am Rande einer kleinen Stadt in der Nähe von Stuttgart.
 
-## Schön, Dich Kennenzulernen, Ich Bin Ruben Storm
-
 ![][defMeCenterImage]
 
 Im Jahr 2017 begann ich mit dem Teilzeitreisen, und bis 2018 fand ich mich vollständig im nomadischen Lebensstil wieder – ein Weg, den ich ursprünglich nicht geplant hatte, der sich jedoch nach und nach entfaltet hat. Ein unerwarteter Unfall im Jahr 2020 führte dazu, dass ich den Minimalismus übernahm; ich konnte meinen großen Rucksack nicht mehr handhaben, was meine Lebensweise ungewollt veränderte. Mehr über meinen Weg zum Nomadentum und Minimalismus werde ich in einem kommenden Update berichten.
