@@ -10,7 +10,7 @@ author: Ruben Storm
 categories: ['page', 'über mich', 'about', 'minimalismus']
 taxonomy: page
 kind: page
-showToc: true
+showToc: false
 TocOpen: false
 hidemeta: false
 comments: false
