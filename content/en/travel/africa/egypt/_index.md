@@ -1,6 +1,6 @@
 ---
-date: 2024-09-06T19:56:07+03:00
-lastmod: 2024-09-06T19:56:07+03:00
+date: 2024-10-25T15:10:07+03:00
+lastmod: 2024-10-25T15:10:07+03:00
 draft: false
 title: "Egypt"
 description: "Discover Egypt: Where every journey unfolds a new adventure."
