@@ -7,7 +7,7 @@ description: "Freude entfesseln, ein Abenteuer nach dem anderen – Frohe Weihna
 lang: de
 author: Ruben Storm
 categories: ['news', 'Jahresrückblick']
-tags: ['Weihnachten in Moshi', 'Reiseabenteuer 2024', 'Minimalistischer Lebensstil', 'igitaler Nomade', 'Blog- und Vlog-Updates', 'Pläne für das neue Jahr', 'Frohe Weihnachten', 'Frohes neues Jahr']
+tags: ['Weihnachten in Moshi', 'Reiseabenteuer 2024', 'Minimalistischer Lebensstil', 'Digitaler Nomade', 'Blog- und Vlog-Updates', 'Pläne für das neue Jahr', 'Frohe Weihnachten', 'Frohes neues Jahr']
 taxonomy: post
 kind: page
 showToc: false
