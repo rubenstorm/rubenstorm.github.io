@@ -4,7 +4,7 @@ lastmod: 2024-12-31T15:45:29+03:00
 draft: false
 title: 'Kilimanjaro Wanderung'
 description: "Ein ruhiger Spaziergang durch die Landschaft Kilimanjaros: Das Jahr 2024 entspannt abschließen"
-lang: en
+lang: de
 author: Ruben Storm
 categories: ['post', 'news']
 tags: ['Kilimanjaro', 'Materuni', 'Wasserfall', 'Wanderung', 'Reise', 'Neujahr', 'Landschaft']
