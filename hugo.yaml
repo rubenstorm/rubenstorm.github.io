@@ -77,26 +77,26 @@ params:
     imageHeight: 120
     
   socialIcons:
+    - name: bitcoin
+      url: "https://coinos.io/rubenstorm"
     - name: paypal
       url: "https://paypal.me/rubenstorm/15"
-    - name: bitcoin
-      url: "donation/bitcoin-donation/"
-    - name: github
-      url: "https://github.com/"
     - name: x
       url: "https://x.com/rubenstorm"
     - name: youtube
-      url: "https://youtube.com"
+      url: "https://www.youtube.com/@lost-storm"
     - name: instagram
-      url: "pages/social-media/instagram/"
-    - name: "telegram"
-      url: "pages/telegram/"
+      url: "https://www.instagram.com/stormruben/"
+    - name: tiktok
+      url: "https://www.tiktok.com/@rubenstorm"
 
   contentSocials: 
+    - name: bitcoin
+      url: "https://coinos.io/rubenstorm"
     - name: x
       url: "https://x.com/rubenstorm"
     - name: instagram
-      url: "https://instagram.com"
+      url: "https://www.instagram.com/stormruben/"
 
 
   # Footer

@@ -23,6 +23,24 @@ I want to extend my deepest gratitude to everyone who has supported me along the
 
 If you enjoy the videos and photos I share on social media, please know that I do this work out of passion, not for payment. As a minimalist nomad constantly on the move, I rely on your support to continue creating. If my content resonates with you and you’d like to show your appreciation, a small tip via PayPal or cryptocurrency would mean a lot to me. Thank you so much for your support!
 
+---
+
+## Got a Lightning wallet? Like zapping?
+
+You can send me some sats using the link below — choose between Lightning, on-chain, or other available options.
+
+**Note:** eCash isn't fully tested yet — if you use it, you might need to send me the redemption string so I can claim it.
+
+⚡ [Send some Sats](https://coinos.io/rubenstorm)
+
+You can also use my Lightning address (it looks like an email, but it doesn’t receive messages — only sats).
+
+⚡ rubenstorm@coinos.io
+
+Thanks for the zap! ⚡💛
+
+---
+
 ![][defMyImage]
 
 ---

@@ -23,6 +23,26 @@ Ich möchte meinen tiefsten Dank an alle aussprechen, die mich auf meinem Weg un
 
 Wenn Ihnen die Videos und Fotos gefallen, die ich in den sozialen Medien teile, wissen Sie bitte, dass ich diese Arbeit aus Leidenschaft mache und nicht für Bezahlung. Als minimalistischer Nomade, der ständig unterwegs ist, bin ich auf Ihre Unterstützung angewiesen, um weiterhin Inhalte zu erstellen. Wenn Ihnen mein Content gefällt und Sie Ihre Wertschätzung zeigen möchten, würde mir ein kleines Trinkgeld über PayPal oder Kryptowährung viel bedeuten. Vielen Dank für Ihre Unterstützung!
 
+---
+
+## Hast du eine Lightning-Wallet? Magst du Zaps?
+
+Du kannst mir ein paar Sats über den folgenden Link schicken — wähle zwischen Lightning, On-Chain oder anderen verfügbaren Optionen.
+
+**Hinweis:** eCash ist noch nicht vollständig getestet — wenn du es nutzt, musst du mir eventuell den Einlösecodestring schicken, damit ich die Sats abrufen kann.
+
+⚡ [Ein paar Sats senden](https://coinos.io/rubenstorm)
+
+Du kannst auch meine Lightning-Adresse verwenden (sie sieht aus wie eine E-Mail-Adresse, empfängt aber keine Nachrichten — nur Sats).
+
+⚡ [rubenstorm@coinos.io](mailto:rubenstorm@coinos.io)
+
+Danke für den Zap! ⚡💛
+
+---
+
+
+
 ![][defMyImage]
 
 ---
