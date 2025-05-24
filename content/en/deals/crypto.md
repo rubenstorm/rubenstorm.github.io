@@ -50,7 +50,7 @@ As a bonus, Tangem offers a 10% discount when you order using my referral link o
 
 **Referral Code:** *RT4SVY*
 
-[Buy Tangem Wallet with discount](https://tangem.com/pricing/?promocode=RT4SVY)
+&rarr; [Buy Tangem Wallet with discount](https://tangem.com/pricing/?promocode=RT4SVY)
 
 
 ### OneKey Wallet
@@ -63,5 +63,5 @@ If you’re thinking about securing your crypto too, I’d recommend checking it
 
 **Referral Code:** *OSYKWU*
 
-[Grab your OneKey today](https://onekey.so/r/OSYKWU)
+&rarr; [Grab your OneKey today](https://onekey.so/r/OSYKWU)
 

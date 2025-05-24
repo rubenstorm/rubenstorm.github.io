@@ -50,7 +50,7 @@ Als Extra gibt es 10 % Rabatt, wenn du über meinen Empfehlungslink oder mit mei
 
 **Empfehlungscode:** *RT4SVY*
 
-[Hier Tangem Wallet mit Rabatt kaufen](TangemLink)
+&rarr; [Hier Tangem Wallet mit Rabatt kaufen](TangemLink)
 
 ### OneKey Wallet
 
@@ -62,7 +62,7 @@ Wenn du deine Krypto ebenfalls besser schützen möchtest, kann ich dir OneKey n
 
 **Empfehlungscode:** *OSYKWU*
 
-[Hier dein OneKey Wallet sichern](OneKeyLink)
+&rarr; [Hier dein OneKey Wallet sichern](OneKeyLink)
 
 
 [TangemLink]: https://tangem.com/pricing/?promocode=RT4SVY
