@@ -1,6 +1,6 @@
 ---
 date: 2024-09-13T16:03:34+03:00
-lastmod: 2024-09-13T16:03:34+03:00
+lastmod: 2025-05-25T19:12:16+03:00
 draft: false
 title: 'Banking und Geld'
 description: "Top-Banking-, Geldtransfer- und Kartendienste für nahtlose Finanzverwaltung"

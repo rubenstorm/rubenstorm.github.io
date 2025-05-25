@@ -1,6 +1,6 @@
 ---
-date: 2024-10-01T00:01:16+03:00
-lastmod: 2024-10-01T00:01:16+03:00
+date: 2025-05-24T19:15:16+03:00
+lastmod: 2025-05-24T19:15:16+03:00
 draft: false
 title: 'Nomadic Lifestyle FAQ'
 description: "Why did you decide to live a nomadic life? My nomadic journey began as a response to challenging circumstances at my..."

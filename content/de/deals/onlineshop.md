@@ -1,6 +1,6 @@
 ---
 date: 2024-09-09T22:57:27+03:00
-lastmod: 2024-09-09T22:57:27+03:00
+lastmod: 2025-05-25T19:32:16+03:00
 draft: false
 title: 'Onlineshop'
 description: "Entdecke die besten Optionen für Online-Shopping und den Aufbau von Online-Shops"

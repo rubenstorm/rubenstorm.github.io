@@ -1,6 +1,6 @@
 ---
 date: 2025-05-24T18:04:26+03:00
-lastmod: 2025-05-24T18:04:26+03:00
+lastmod: 2025-05-25T18:04:26+03:00
 draft: false
 title: 'Crypto'
 description: "Entdecke die besten Krypto-Gadgets wie Wallets und Zubehör – einige mit Rabatten über meinen Empfehlungslink."
