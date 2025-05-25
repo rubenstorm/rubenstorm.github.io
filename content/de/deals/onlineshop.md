@@ -34,7 +34,11 @@ cover:
 
 ---
 
+# Onlineshop
+
 Ein Online-Shop ist eine Webseite, auf der Du Waren oder Dienstleistungen über das Internet kaufen und verkaufen kannst. In diesem Abschnitt findest Du Links zu verschiedenen Online-Shops und Plattformen, auf denen Du Deinen eigenen Shop einrichten kannst. Informationen zu meinen eigenen Internet-Shops findest Du auf einer anderen Seite.
+
+---
 
 ## Einkaufen
 ### Amazon
@@ -43,7 +47,26 @@ Wenn Du über meinen Link bei Amazon einkaufst, erhalte ich eine kleine Provisio
 
 Amazon, der größte Online-Händler der Welt, begann als Buchverkaufsplattform und hat sich zu einem bedeutenden Akteur im E-Commerce, in der Cloud-Computing-Branche, beim digitalen Streaming und in der künstlichen Intelligenz entwickelt.
 
-[Bei Amazon einkaufen][defAmazonLink]
+👉 [Bei Amazon einkaufen][defAmazonLink]
+
+---
+
+### Bitrefill
+
+**Du willst deine ₿ Bitcoin oder Sats ganz einfach ausgeben?**
+Dann schau dir **Bitrefill** an – eine Plattform, auf der du mit ₿ Bitcoin oder **Sats über das ⚡ Lightning-Netzwerk** Geschenkkarten kaufen, dein Handy aufladen und viele weitere Dienste weltweit bezahlen kannst.
+
+Bitrefill macht Krypto alltagstauglich und belohnt dich sogar **bei jedem Einkauf mit Rewards** – du bekommst also ein bisschen in Sats zurück.
+
+**Und hier kommt der Bonus:**
+Wenn du dich über meinen Empfehlungslink registrierst, bekommen wir **beide 5 USD in Rewards**, nachdem du insgesamt 200 USD ausgegeben hast.
+
+👉 [Hol dir jetzt deine Rewards][defBitrefillLink]
+
+Schnell, grenzenlos und ⚡ Lightning-ready – Bitrefill ist ideal für alle, die mit ₿ Bitcoin leben.
+
+
+---
 
 ## Deinen eigenen Shop erstellen
 ### Teepublic
@@ -52,8 +75,9 @@ Eröffne Deinen eigenen Shop auf Teepublic, um eine Vielzahl von Produkten mit D
 
 TeePublic ist der führende Marktplatz für unabhängige Kreative, um hochwertige Artikel mit ihren Kunstwerken zu verkaufen.
 
-[Starte Deinen kostenlosen Shop auf Teepublic][defTeeplublicLink]
+👉 [Starte Deinen kostenlosen Shop auf Teepublic][defTeeplublicLink]
 
 
 [defAmazonLink]: https://amzn.to/3SRBYaB
 [defTeeplublicLink]: http://tee.pub/lic/qHZVniKCn3U
+[defBitrefillLink]: https://www.bitrefill.com/invite/uxwjwmdj

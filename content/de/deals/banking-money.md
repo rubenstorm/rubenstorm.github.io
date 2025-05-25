@@ -33,23 +33,25 @@ cover:
     hidden: false # only hide on current single page
 
 ---
-	
-## Banking & Geld
+
+# Banking und Geld
 
 In diesem Abschnitt empfehle ich eine Auswahl an Banken, Geldtransferdiensten und anderen Finanzinstrumenten, die ich persönlich genutzt und geprüft habe. Wenn ein Dienst nicht meinen Standards entspricht, wird er hier nicht aufgeführt.
 
+---
+
 ## Banking
 ### N26
-**Banking**
 
 Erleben Sie nahtloses mobiles Banking mit N26. Verwenden Sie meinen Empfehlungslink *rubensts8781* oder klicken Sie [hier][defN26Link], um Ihr Konto zu erstellen.
 
 N26 ist eine vollständig lizenzierte Online-Bank, die eine umfassende Finanzverwaltung direkt von Ihrem Handy aus bietet. Mit einer deutschen IBAN ist Ihr Konto gemäß EU-Vorschriften bis zu 100.000 € geschützt.
 
-[Registrieren Sie sich noch heute für Ihr kostenloses N26-Konto][defN26Link]
+👉 [Registrieren Sie sich noch heute für Ihr kostenloses N26-Konto][defN26Link]
+
+---
 
 ### Revolut
-**Banking**
 
 **Reduzieren Sie versteckte Gebühren mit Revolut!**
 
@@ -57,13 +59,29 @@ Revolut ist eine Neobank mit Lizenzen und Vorschriften in der gesamten Europäis
 
 *Dieses Angebot ist zeitlich begrenzt.*
 
-**Dieser Link ist bis zum 22. Oktober 2024 gültig. Um die Anforderungen zu erfüllen, müssen Sie sich registrieren, die Debitkarte bestellen und drei Einkäufe von 5 € oder mehr damit tätigen. Alle Schritte müssen bis zum 1. Oktober abgeschlossen sein.**
+**Dieser Link ist begrenzt gültig. Um die Anforderungen zu erfüllen, müssen Sie sich registrieren, die Debitkarte bestellen und drei Einkäufe von 5 € oder mehr damit tätigen. Alle Schritte müssen in kurzem Zeitraum abgeschlossen sein.**
 
-[Jetzt mit diesem Link registrieren][defRevolutLink]
+👉 [Jetzt mit diesem Link registrieren][defRevolutLink]
+
+---
 
 ## Geldtransferdienste
+
+### Skrill
+
+**Du suchst eine einfache Möglichkeit, Geld ins Ausland zu überweisen?**
+Ich empfehle dir **Skrill** – ein sicheres und zuverlässiges Online-Wallet, mit dem du internationale Überweisungen schnell und unkompliziert abwickeln kannst. Egal ob du Geld an Familie sendest, Freelancer bezahlst oder weltweit Finanzen managst – Skrill ist eine praktische und oft günstigere Alternative zur Bank.
+
+**Spare 15 € bei deiner ersten Auslandsüberweisung!**
+Wenn du dich mit meinem Empfehlungscode **rubens458** registrierst, erhältst du **15 € Rabatt** auf deine erste **internationale Überweisung ab 150 €**.
+
+Einfach anmelden und sparen!
+
+👉 [Jetzt registrieren][defSkrillLink] oder den Code **rubens458** ei der Registrierung eingeben.
+
+---
+
 ### Remitly
-**Geldtransfer**
 
 *Warum ich Remitly für das Versenden von Geld wähle.*
 
@@ -79,10 +97,11 @@ Melden Sie sich bei Remitly über meinen Empfehlungslink an, um 10 € Rabatt au
 
 *Bedingungen gelten.*
 
-[Erstellen Sie Ihr kostenloses Konto hier][defRemitlyLink]
+👉 [Erstellen Sie Ihr kostenloses Konto hier][defRemitlyLink]
+
+---
 
 ### WorldRemit
-**Geldtransfer**
 
 Ich nutze WorldRemit für schnelle, einfache und kostengünstige weltweite Geldtransfers. Verwenden Sie meinen Empfehlungs-Code *REFERHTKWNBXRMATJ*, um 15 € zu verdienen, wenn Sie 75 € senden.
 
@@ -90,54 +109,24 @@ Registrieren Sie sich über meinen Link oder den Code *REFERHTKWNBXRMATJ*, um Ih
 
 WorldRemit ermöglicht es Ihnen, Geld in über 100 Länder zu senden.
 
-*Aktuell kein Angebot*
+#### 📌 Hinweis:
 
-[Erhalten Sie Ihr kostenloses Konto hier](#)
+⏳ Dieser Link ist vorübergehend nicht verfügbar.
+**Bitte versuchen Sie es später noch einmal** _Vielen Dank für Ihr Verständnis_!
+
+---
 
 ## Kredit- & Debitkarten
-### Nexo
-**Kreditkarte**
 
-Treten Sie Nexo bei und erhalten Sie 25 $ in BTC! Nexo bietet erstklassige Zinsen auf Ihre Krypto-Bestände, die Möglichkeit, gegen digitale Vermögenswerte zu leihen und den Austausch zwischen Hunderten von Marktpaaren.
+### ⏳ Bald verfügbar
 
-#### So starten Sie
-- Einzahlen von 100 $ oder mehr
-- Ihre Kreditkarte erhalten
-- 25 $ in BTC als Belohnung erhalten
-- Belohnungen für jede Zahlung verdienen
+Dieser Bereich enthält momentan keine Inhalte,  
+aber **bleiben Sie dran** – _bald gibt es neue Angebote_!
 
-Nexo ist der größte Krypto-Kreditgeber im CeFi-Bereich und verbindet traditionelle Kreditvergabe mit Blockchain-Technologie. Erhalten Sie sofortige Krypto-Darlehen und behalten Sie Ihr digitales Vermögen ohne Bonitätsprüfung.
 
-Melden Sie sich über meinen Link an, um Ihre 25 $ in BTC zu erhalten. (Siehe Details oben, wie Sie die Belohnung erhalten.)
-
-*Treten Sie Nexo bei und erhalten Sie BTC-Belohnungen. Registrieren Sie sich und starten Sie noch heute:*
-
-[Fordern Sie Ihr Angebot hier an!][defNexoLink]
-
-### Plutus
-**Debitkarte**
-
-Richten Sie Ihr Plutus-Konto ein, um 3 % Cashback auf alle Zahlungen zu verdienen. Genießen Sie zusätzliche Vorteile mit erhöhten Cashback-Angeboten von verschiedenen Marken.
-
-#### Vorteile beinhalten
-- Lidl
-- Burger King
-- KFC
-- Netflix
-- Spotify
-- Amazon Prime
-- eBay
-- Uber
-- Starbucks
-- Shell
-- Ikea
-- … und viele mehr
-
-[Jetzt anmelden][defPlutusLink]
 
 [defN26Link]: https://n26.com/r/rubensts8781
 [defRemitlyLink]: https://remit.ly/3n26xnwa
-[defNexoLink]: https://nexo.com/ref/vt66vqx9wu?src=android-link
-[defPlutusLink]: https://dex.plutus.it/auth/referee/signup?refId=l9O0ig
-[defRevolutLink]: https://revolut.com/referral/?referral-code=rubensczek!OCT1-24-AR-H2
+[defSkrillLink]: https://transfers.skrill.com/smt/refer/code/rubens458?utm_source=link-share&utm_medium=Android&utm_campaign=SMT-RaF
+[defRevolutLink]: https://revolut.com/referral/?referral-code=rubensczek!MAY1-25-VR-DE-DBC
 

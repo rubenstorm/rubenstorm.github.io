@@ -33,24 +33,26 @@ cover:
     hidden: false # only hide on current single page
 
 ---
-	
-## Banking & Money
+
+# Banking and Money
 
 In this section, I recommend a selection of banks, money transfer services, and other financial tools that I've personally used and vetted. If any service fails to meet my standards, it won't be included here.
 
+---
+
 ## Banking
 ### N26
-**Banking**
 
 Experience seamless mobile banking with N26. Use my referral code *rubensts8781* or click [here][defN26Link] to create your account.
 
 N26 is a fully licensed online bank offering a comprehensive financial management experience from your phone. With a German IBAN, your account is protected up to €100,000 per EU regulations.
 
 
-[Register for your free N26 account today][defN26Link]
+👉 [Register for your free N26 account today][defN26Link]
+
+---
 
 ### Revolut
-**Banking**
 
 **Cut down on hidden fees with Revolut!**
 
@@ -58,12 +60,29 @@ Revolut is a neobank with licenses and regulations across the European Union, pr
 
 *This offer is time-sensitive.*
 
-**This link is valid until October 22, 2024. To meet the requirements, you must register, order the debit card, and make three purchases of €5 or more with it. All steps must be completed by October 1.**
+**This link is not always valid. To meet the requirements, you must register, order the debit card, and make three purchases of €5 or more with it. All steps must be completed in time**
 
 
-[Register now with this link][defRevolutLink]
+👉 [Register now with this link][defRevolutLink]
+
+---
 
 ## Money Transfer Services
+
+### Skrill
+
+**Looking for a smart way to send money internationally?**
+I recommend **Skrill** – a reliable and secure online wallet that makes international transfers fast and easy. Whether you're sending money to family, paying freelancers, or managing global finances, Skrill is a great alternative to traditional banks and often much cheaper.
+
+**Get €15 off your first international transfer!**
+If you use my referral code **rubens458** when signing up, you’ll get a **€15 discount** on your first **international transfer of €150 or more**.
+
+That’s a nice bonus just for getting started!
+
+👉 [Sign up at][defSkrillLink] or enter **rubens458** during registration.
+
+---
+
 ### Remitly
 **Money Transfer**
 
@@ -82,7 +101,9 @@ Sign up for Remitly using my referral link to get 10 € off on your first mone
 *Terms apply*.
 
 
-[Create your free account here][defRemitlyLink]
+👉 [Create your free account here][defRemitlyLink]
+
+---
 
 ### WorldRemit
 **Money Transfer**
@@ -93,53 +114,23 @@ Register using my link or the code *REFERHTKWNBXRMATJ* to claim your reward.
 
 WorldRemit allows you to send money to over 100 countries.
 
-[Get your free account here](#)
+#### 📌 Notice:
+
+⏳ This link is temporarily unavailable.
+**Please check back later** - _Thank you for your patience_!
+
+---
 
 ## Credit & Debit Cards
-### Nexo
-**Credit Card**
 
-Join Nexo and receive $25 in BTC! Nexo offers top-tier interest on your crypto, the ability to borrow against digital assets, and exchange between hundreds of market pairs.
+### ⏳ Coming Soon
 
-#### How to Get Started
-- Deposit $100 or more
-- Get your Credit Card
-- Receive $25 in BTC as a reward
-- Earn rewards for each payment
-
-Nexo is the largest crypto lender in the CeFi space, bridging traditional lending and blockchain technology. Get instant crypto loans and retain ownership of your digital assets without credit checks.
-
-Sign up using my link to claim your $25 in BTC. (See details above for how to receive the reward.)
-
-*Join Nexo and get BTC rewards. Sign up and start today:* 
-
-[Claim your offer here!][defNexoLink]
-
-### Plutus
-**Debit Card**
-
-Set up your Plutus account to start earning 3% cashback on all payments. Enjoy additional perks with enhanced cashback offers from various brands.
-
-#### Perks Include
-- Lidl
-- Burger King
-- KFC
-- Netflix
-- Spotify
-- Amazon Prime
-- eBay
-- Uber
-- Starbucks
-- Shell
-- Ikea
-- … and many more
-
-[Sign up now][defPlutusLink]
+This section currently has no content,  
+but **stay tuned** – _new offers are coming soon_!
 
 
 
 [defN26Link]: https://n26.com/r/rubensts8781
 [defRemitlyLink]: https://remit.ly/3n26xnwa
-[defNexoLink]: https://nexo.com/ref/vt66vqx9wu?src=android-link
-[defPlutusLink]: https://dex.plutus.it/auth/referee/signup?refId=l9O0ig
-[defRevolutLink]: https://revolut.com/referral/?referral-code=rubensczek!OCT1-24-AR-H2
+[defSkrillLink]: https://transfers.skrill.com/smt/refer/code/rubens458?utm_source=link-share&utm_medium=Android&utm_campaign=SMT-RaF
+[defRevolutLink]: https://revolut.com/referral/?referral-code=rubensczek!MAY1-25-VR-DE-DBC
