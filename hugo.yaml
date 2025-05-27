@@ -158,23 +158,24 @@ params:
     minMatchCharLength: 0
     # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-  outputs:
-    home:
-      - HTML
-      - RSS
-      - JSON # necessary for search
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
 
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:
-    noClasses: false
+    # noClasses: false
     # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
+    codeFences: true
+    guessSyntax: true
     # lineNos: true
-    # style: monokai
+    style: monokai
 
 
 
