@@ -1,6 +1,6 @@
 ---
 date: 2024-09-09T22:58:56+03:00
-lastmod: 2024-09-09T22:58:56+03:00
+lastmod: 2025-05-27T17:24:42+03:00
 draft: false
 title: 'Play to Earn'
 description: "Discover the exciting world of Play-to-Earn (P2E) gaming!"
@@ -34,10 +34,13 @@ cover:
 
 ---
 
+# Play to Earn
 
 Play-to-earn (P2E) is a blockchain gaming model where players can earn cryptocurrency tokens by completing tasks, winning battles, or advancing through game levels.
 
-### Wombat
+---
+
+## Wombat
 
 Wombat is a fantastic NFT gaming platform you should check out! Download the app and claim a friendship NFT with me 😊
 - Install the app using this link and complete the registration.
@@ -48,7 +51,7 @@ Register with my code, and we'll both receive a free NFT and some coins!
 
 **Code:** *FLTY99L*
 
-[Register now for free][defWombatLink]
+👉 [Register now for free][defWombatLink]
 
 
 

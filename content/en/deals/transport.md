@@ -1,6 +1,6 @@
 ---
 date: 2024-09-09T22:59:42+03:00
-lastmod: 2024-09-09T22:59:42+03:00
+lastmod: 2025-05-27T17:14:42+03:00
 draft: false
 title: 'Transport'
 description: "Affordable Travel Solutions: Find the Best Transportation Options"
@@ -34,21 +34,27 @@ cover:
 
 ---
 
+# Transport
+
 Navigating public transit often means finding the most cost-effective options. Whether you need an aircraft, train, bus, cab, scooter, or bike, I’ll share links to the services I’ve tried and found reliable.
+
+---
 
 ## Scooter Rental
 ### Tier
 
 I use the Tier app for scooter rentals to get around town. Sign up through my link to enjoy 50% off your next five rides, and I’ll also earn a small reward.
 
-[Get your account now][defTierLink]
+👉 [Get your account now][defTierLink]
+
+---
 
 ## Bus, Train & Flight
 ### Omio
 
 For traveling longer distances, I rely on Omio to book trains and buses. It often offers better prices than Deutsche Bahn or Flixbus. While I haven’t used Omio for flights yet, it’s worth checking out. Sign up through my link to get a €10 discount on your next booking.
 
-[Sign up for free now][defOmioLink]
+👉 [Sign up for free now][defOmioLink]
 
 
 [defTierLink]: https://tier.page.link/Rkfus
