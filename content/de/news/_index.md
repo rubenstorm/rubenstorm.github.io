@@ -6,7 +6,7 @@ title: "News"
 description: "Bleib auf dem Laufenden mit den neuesten Entwicklungen in meinem Leben durch persönliche Reflexionen, Echtzeit-Updates und Einblicke in meine Reise. Entdecke meine Gedanken und Erlebnisse, während sie geschehen, und erhalte einen authentischen Einblick in meine Welt."
 lang: de
 author: Ruben Storm
-hideSitemap: false
+hideSitemap: true
 menu: 
     main:
         weight: 42

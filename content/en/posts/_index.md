@@ -7,7 +7,7 @@ description: "Wander, Simplify, Innovate: A Journey Through Travel, Minimalism, 
 summary: "Welcome to my blog! Join me as I explore the world through travel, minimalism, and the digital frontier of NFTs and crypto. Here, I share my experiences, tips for a simpler lifestyle, and insights into nomadic living. Let’s embark on this journey together!"
 lang: en
 author: Ruben Storm
-hideSitemap: false
+hideSitemap: true
 menu: 
     main:
         weight: 44

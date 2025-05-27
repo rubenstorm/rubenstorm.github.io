@@ -7,7 +7,7 @@ description: "Unterwegs, Einfach, Zukunftsorientiert: Meine Reise durch Minimali
 summary: "Willkommen auf meinem Blog! Begleite mich, während ich die Welt durch Reisen, Minimalismus und die digitale Zukunft von NFTs und Krypto erkunde. Hier teile ich meine Erfahrungen, Tipps für ein einfacheres Leben und Einblicke in das nomadische Dasein. Lass uns diese Reise gemeinsam antreten!"
 lang: de
 author: Ruben Storm
-hideSitemap: false
+hideSitemap: true
 menu: 
     main:
         weight: 44

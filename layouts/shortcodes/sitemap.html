@@ -1,7 +1,7 @@
 {{ define "sitemaphira" }}
 {{ if .Pages }}
 <ul>
-    {{ range .Pages}}
+    {{ range where .Pages "Params.hideSitemap" "ne" true }}
     {{ if not .Params.hideSitemap }}
     <li><a href="{{ .Permalink }}">{{ .Title }}</a>
         {{ template "sitemaphira" . }}
@@ -13,7 +13,7 @@
 {{ end }}
 
 <ul>
-{{ range .Site.Sections }}
+{{ range where .Site.Sections "Params.hideSitemap" "ne" true }}
     <li><a href="{{ .Permalink }}">{{ .Title }}</a>
         {{ template "sitemaphira" . }}</li>
 {{ end }}
