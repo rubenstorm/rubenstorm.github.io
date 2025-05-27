@@ -6,7 +6,7 @@ title: '{{ replace .File.ContentBaseName `-` ` ` | title }}'
 description: ""
 lang: en
 author: Ruben Storm
-categories: ['post', 'blog']
+categories: ['post', 'news']
 tags: ['', '']
 taxonomy: post
 kind: page
@@ -34,4 +34,3 @@ cover:
     hiddenInList: false # hide on list pages and home
 
 ---
-
