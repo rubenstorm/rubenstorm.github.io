@@ -7,6 +7,7 @@ description: "Real-Time Reflections: Insights & Updates from My Journey"
 summary: "Stay updated with the latest in my life through personal reflections, real-time updates, and insights into my journey. Explore my thoughts and experiences as they happen, offering a genuine glimpse into my world."
 lang: en
 author: Ruben Storm
+hideStormMap: true
 hideSitemap: true
 menu: 
     main:

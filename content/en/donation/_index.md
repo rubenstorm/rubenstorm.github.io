@@ -14,6 +14,7 @@ menu:
         name: donation
 taxonomy: section
 kind: section
+# {{< qrcode content="bitcoin:..." identifier="cronos" >}}
 ---
 ![][HeaderImage]
 
@@ -33,9 +34,13 @@ You can send me some sats using the link below — choose between Lightning, on-
 
 ⚡ [Send some Sats](https://coinos.io/rubenstorm)
 
-You can also use my Lightning address (it looks like an email, but it doesn’t receive messages — only sats).
 
-⚡ rubenstorm@coinos.io
+{{< stormqr data="rubenstorm@minibits.cash" identifier="lightning" >}}
+
+{{< stormnote type="note" sntitle="Zap Me" >}}
+💸 You can also use my Lightning address to send me some Sats!
+⚡ Just scan the QR code with your **Lightning wallet** or **copy the address** from the **flashing lightning logo** above.
+{{< /stormnote >}}
 
 Thanks for the zap! ⚡💛
 
