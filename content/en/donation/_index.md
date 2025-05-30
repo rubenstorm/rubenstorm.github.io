@@ -38,7 +38,7 @@ You can send me some sats using the link below — choose between Lightning, on-
 {{< stormqr data="rubenstorm@coinos.io" identifier="lightning" >}}
 
 {{< stormnote type="note" sntitle="Zap Me" >}}
-💸 You can also use my Lightning address to send me some Sats!
+💸 You can also use my Lightning address (rubenstorm@coinos.io) to send me some Sats!
 ⚡ Just scan the QR code with your **Lightning wallet** or **copy the address** from the **flashing lightning logo** above.
 {{< /stormnote >}}
 
