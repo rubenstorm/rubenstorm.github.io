@@ -35,7 +35,7 @@ You can send me some sats using the link below — choose between Lightning, on-
 ⚡ [Send some Sats](https://coinos.io/rubenstorm)
 
 
-{{< stormqr data="rubenstorm@minibits.cash" identifier="lightning" >}}
+{{< stormqr data="rubenstorm@coinos.io" identifier="lightning" >}}
 
 {{< stormnote type="note" sntitle="Zap Me" >}}
 💸 You can also use my Lightning address to send me some Sats!
