@@ -10,6 +10,7 @@ author: Ruben Storm
 categories: ['page', 'sitemap']
 taxonomy: page
 kind: page
+hideStormMap: true
 showToc: false
 TocOpen: false
 hidemeta: false
