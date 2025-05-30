@@ -1,6 +1,6 @@
 ---
 date: 2024-09-11T16:57:54+03:00
-lastmod: 22024-09-11T16:57:54+03:00
+lastmod: 2024-09-11T16:57:54+03:00
 draft: false
 title: "Social Media"
 summary: "Vernetze dich mit mir auf Social Media! Folge meinen Kanälen für die neuesten Updates, Reisetipps, Lifestyle-Inspirationen und mehr."

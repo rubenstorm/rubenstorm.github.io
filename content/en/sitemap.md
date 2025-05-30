@@ -10,6 +10,7 @@ author: Ruben Storm
 categories: ['page', 'sitemap']
 taxonomy: page
 kind: page
+hideStormMap: true
 showToc: false
 TocOpen: false
 hidemeta: false
@@ -40,7 +41,6 @@ Welcome to my Sitemap! This page serves as your navigation guide, providing a cl
 
 ---
 
-{{< sitemap >}}
-
+{{< stormmap design="color" >}}
 
 

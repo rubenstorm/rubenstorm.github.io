@@ -1,6 +1,6 @@
 ---
-date: 2024-09-130T19:18:25+03:00
-lastmod: 2024-09-130T19:18:25+03:00
+date: 2024-09-13T19:18:25+03:00
+lastmod: 2024-09-13T19:18:25+03:00
 draft: false
 title: "News"
 description: "Bleib auf dem Laufenden mit den neuesten Entwicklungen in meinem Leben durch persönliche Reflexionen, Echtzeit-Updates und Einblicke in meine Reise. Entdecke meine Gedanken und Erlebnisse, während sie geschehen, und erhalte einen authentischen Einblick in meine Welt."
