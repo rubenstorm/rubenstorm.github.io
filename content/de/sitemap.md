@@ -40,7 +40,6 @@ Willkommen auf meiner Sitemap! Diese Seite dient als dein Navigationsleitfaden u
 
 ---
 
-{{< sitemap >}}
-
+{{< stormmap design="color" >}}
 
 
