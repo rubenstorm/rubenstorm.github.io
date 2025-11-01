@@ -7,7 +7,7 @@ description: "Support my work with fast, anonymous crypto donations via Binance 
 summary: "Support my work with fast, anonymous crypto donations via Binance Smart Chain (BEP20). Donate BNB, USDT, USDC, DAI, SafePal, or BUSD using StormQR — a clean, secure, and mobile-friendly QR code system."
 lang: en
 author: Ruben Storm
-categories: ['page']
+categories: ['page', 'donate', 'bnb', 'binance', 'bsc']
 taxonomy: page
 kind: page
 weight: 5
