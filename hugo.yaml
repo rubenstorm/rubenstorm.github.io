@@ -77,26 +77,28 @@ params:
     imageHeight: 120
     
   socialIcons:
-    - name: bitcoin
-      url: "https://coinos.io/rubenstorm"
+    - name: mastodon
+      url: "https://defcon.social/@rubenstorm"
+    - name: pixelfed
+      url: "https://pixelfed.one/rubenstorm"
+    - name: matrix
+      url: "https://matrix.to/#/@rubenstorm:nope.chat"
+    - name: xmpp
+      url: "xmpp:rubenstorm@c0nnect.de"
     - name: paypal
-      url: "https://paypal.me/rubenstorm/15"
-    - name: x
-      url: "https://x.com/rubenstorm"
-    - name: youtube
-      url: "https://www.youtube.com/@lost-storm"
-    - name: instagram
-      url: "https://www.instagram.com/stormruben/"
-    - name: tiktok
-      url: "https://www.tiktok.com/@rubenstorm"
+      url: "https://paypal.me/rubenstorm/20"
+    - name: bitcoin
+      url: "https://coinos.io/pay/rubenstorm"
 
   contentSocials: 
+    - name: mastodon
+      url: "https://defcon.social/@rubenstorm"
+    - name: pixelfed
+      url: "https://pixelfed.one/rubenstorm"
+    - name: paypal
+      url: "https://paypal.me/rubenstorm/25"
     - name: bitcoin
-      url: "https://coinos.io/rubenstorm"
-    - name: x
-      url: "https://x.com/rubenstorm"
-    - name: instagram
-      url: "https://www.instagram.com/stormruben/"
+      url: "https://coinos.io/pay/rubenstorm"
 
 
   # Footer
