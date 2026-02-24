@@ -27,7 +27,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
-    image: "/images/header-donate-tron.webp" # image path/url
+    image: "/images/header-donate-trx.webp" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
