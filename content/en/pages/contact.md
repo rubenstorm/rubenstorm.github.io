@@ -1,6 +1,6 @@
 ---
-date: 2026-02-24T12:28:02+02:00
-lastmod: 2026-02-24T12:28:02+02:00
+date: 2026-02-24T13:28:02+02:00
+lastmod: 2026-02-24T17:59:02+02:00
 draft: false
 title: 'Contact Me'
 description: "I communicate only through decentralized platforms — SimpleX, XMPP, Matrix — with optional DMs on the Fediverse and Nostr."
