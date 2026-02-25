@@ -1,6 +1,6 @@
 ---
 date: 2024-09-06T20:15:00+03:00
-lastmod: 2024-09-06T20:15:00+03:00
+lastmod: 2026-02-25T20:15:00+03:00
 draft: false
 title: "NFT"
 description: "Unlocking the World of NFTs: Unique Digital Assets on the Blockchain"

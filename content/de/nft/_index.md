@@ -1,20 +1,16 @@
 ---
 date: 2024-09-26T10:52:00+03:00
-lastmod: 2024-09-26T10:52:00+03:00
+lastmod: 2026-02-25T20:15:00+03:00
 draft: false
 title: "NFT"
 description: "Die Welt der NFTs Entschlüsseln: Einzigartige Digitale Assets auf der Blockchain"
 summary: "NFTs, oder nicht-fungible Token, sind einzigartige digitale Vermögenswerte, die auf einer Blockchain gespeichert werden und Eigentum sowie Echtheit verifizieren. Sie können gekauft, verkauft und gehandelt werden, wobei jeder NFT unverwechselbar und nicht austauschbar ist."
-lang: de
 author: Ruben Storm
 menu: 
     main:
         weight: 20
         name: nft
-    buttons:
-        weight: 20
 taxonomy: section
-kind: section
 ---
 ![][HeaderImage]
 
