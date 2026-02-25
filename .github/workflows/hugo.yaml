@@ -41,11 +41,12 @@ jobs:
           hugo --gc --minify
 
       # 5️⃣ Deploy to GitHub Pages
-      - name: Deploy to main/docs
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: main
-          destination_dir: docs
-          keep_files: false
+      - name: Deploy site files to docs folder
+        run: |
+          rm -rf docs
+          mv public docs
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs
+          git commit -m "Deploy site"
+          git push
