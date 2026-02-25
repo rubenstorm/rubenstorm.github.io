@@ -9,7 +9,6 @@ lang: en
 author: "Ruben Storm"
 categories: ['page', 'contact', 'simplex', 'xmpp', 'matrix']
 taxonomy: page
-kind: page
 weight: 50
 showToc: false
 TocOpen: false
@@ -32,7 +31,6 @@ cover:
     caption: "" # display caption under coverc.webp" # 
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-
 ---
 
 ## 📬 Contact
