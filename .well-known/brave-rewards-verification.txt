@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: rubenstorm.github.io
+Token: 40cf8f59b364ce121ad9b96ef84e2a5caea2e50c6b586478f67bc188734fd6ac

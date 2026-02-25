@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shops on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/de/categories/shops/</link>
+    <description>Recent content in Shops on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 25 May 2025 19:32:16 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/de/categories/shops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Onlineshop</title>
+      <link>https://rubenstorm.github.io/de/deals/onlineshop/</link>
+      <pubDate>Mon, 09 Sep 2024 22:57:27 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/deals/onlineshop/</guid>
+      <description>Entdecke die besten Optionen für Online-Shopping und den Aufbau von Online-Shops</description>
+    </item>
+  </channel>
+</rss>

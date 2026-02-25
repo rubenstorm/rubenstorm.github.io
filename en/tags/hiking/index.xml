@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hiking on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/tags/hiking/</link>
+    <description>Recent content in Hiking on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Jan 2025 13:10:14 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/tags/hiking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Last Adventure of 2024</title>
+      <link>https://rubenstorm.github.io/en/posts/2025/2025-01-01-my-last-adventure-of-2024/</link>
+      <pubDate>Wed, 01 Jan 2025 13:10:14 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/posts/2025/2025-01-01-my-last-adventure-of-2024/</guid>
+      <description>Ending the year with footsteps, stories, and stunning views</description>
+    </item>
+  </channel>
+</rss>

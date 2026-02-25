@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>P2e on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/categories/p2e/</link>
+    <description>Recent content in P2e on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 May 2025 17:24:42 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/categories/p2e/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Play to Earn</title>
+      <link>https://rubenstorm.github.io/en/deals/play-to-earn/</link>
+      <pubDate>Mon, 09 Sep 2024 22:58:56 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/deals/play-to-earn/</guid>
+      <description>Discover the exciting world of Play-to-Earn (P2E) gaming!</description>
+    </item>
+  </channel>
+</rss>

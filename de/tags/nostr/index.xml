@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nostr on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/de/tags/nostr/</link>
+    <description>Recent content in Nostr on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 03 Jan 2025 14:43:08 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/de/tags/nostr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein Problem mit Alby und Nostr Zaps</title>
+      <link>https://rubenstorm.github.io/de/posts/2025/2025-01-03-my-problem-with-alby-and-nostr-zaps/</link>
+      <pubDate>Fri, 03 Jan 2025 14:43:08 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/posts/2025/2025-01-03-my-problem-with-alby-and-nostr-zaps/</guid>
+      <description>Stay Connected, Stay in Control: Deine Keys, Deine Zaps, Deine Freiheit.</description>
+    </item>
+    <item>
+      <title>Update Nostr &amp; Alby</title>
+      <link>https://rubenstorm.github.io/de/news/2024/2024-12-29-update-nostr/</link>
+      <pubDate>Sun, 29 Dec 2024 13:34:53 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/news/2024/2024-12-29-update-nostr/</guid>
+      <description>Kurzes Update zu Alby, Nostr und Primal</description>
+    </item>
+    <item>
+      <title>Erkundungen in Moshi</title>
+      <link>https://rubenstorm.github.io/de/posts/2024/2024-12-29-exploring-moshi-cafes-challenges-and-plans-ahead/</link>
+      <pubDate>Sun, 29 Dec 2024 13:33:58 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/posts/2024/2024-12-29-exploring-moshi-cafes-challenges-and-plans-ahead/</guid>
+      <description>Cafés, Herausforderungen und Pläne für die Zukunft</description>
+    </item>
+    <item>
+      <title>Den Wandel in Nostr meistern</title>
+      <link>https://rubenstorm.github.io/de/posts/2024/2024-12-28-navigating-the-changes-in-nostr-zaps-sats-and-the-end-of-albys-custodial-wallet/</link>
+      <pubDate>Sat, 28 Dec 2024 15:26:13 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/posts/2024/2024-12-28-navigating-the-changes-in-nostr-zaps-sats-and-the-end-of-albys-custodial-wallet/</guid>
+      <description>Zaps, Sats und das Ende von Albys Custodial Wallet</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>About Me on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/categories/about-me/</link>
+    <description>Recent content in About Me on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Oct 2024 10:13:40 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adulthood</title>
+      <link>https://rubenstorm.github.io/en/about/my-previous-life/adulthood/</link>
+      <pubDate>Sat, 05 Oct 2024 10:13:40 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/about/my-previous-life/adulthood/</guid>
+      <description>From Struggles to Strength: A Journey of Resilience.</description>
+    </item>
+    <item>
+      <title>My Youth</title>
+      <link>https://rubenstorm.github.io/en/about/my-previous-life/my-youth/</link>
+      <pubDate>Sat, 05 Oct 2024 10:11:26 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/about/my-previous-life/my-youth/</guid>
+      <description>Challenges of Youth: Bullying, Discrimination, and the Search for Identity</description>
+    </item>
+    <item>
+      <title>My Childhood</title>
+      <link>https://rubenstorm.github.io/en/about/my-previous-life/my-childhood/</link>
+      <pubDate>Sat, 05 Oct 2024 10:05:51 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/about/my-previous-life/my-childhood/</guid>
+      <description>Experiences shape us, stories connect us – a journey through family and culture.</description>
+    </item>
+    <item>
+      <title>My Early Years</title>
+      <link>https://rubenstorm.github.io/en/about/my-previous-life/my-early-years/</link>
+      <pubDate>Sat, 05 Oct 2024 10:02:53 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/about/my-previous-life/my-early-years/</guid>
+      <description>Roots Between Worlds: My Early Years Marked by Home and Culture.</description>
+    </item>
+    <item>
+      <title>The Journey to My Minimalist Lifestyle</title>
+      <link>https://rubenstorm.github.io/en/about/the-journey-to-my-minimalist-lifestyle/</link>
+      <pubDate>Wed, 02 Oct 2024 21:51:03 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/about/the-journey-to-my-minimalist-lifestyle/</guid>
+      <description>Simplicity is Strength: Carry Only What Matters.</description>
+    </item>
+    <item>
+      <title>The Path to My Nomadic Lifestyle</title>
+      <link>https://rubenstorm.github.io/en/about/the-path-to-my-nomadic-lifestyle/</link>
+      <pubDate>Wed, 02 Oct 2024 15:41:36 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/about/the-path-to-my-nomadic-lifestyle/</guid>
+      <description>From Captivity to Freedom: My Nomadic Life.</description>
+    </item>
+  </channel>
+</rss>

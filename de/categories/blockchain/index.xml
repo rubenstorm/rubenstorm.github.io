@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blockchain on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/de/categories/blockchain/</link>
+    <description>Recent content in Blockchain on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 11 Sep 2024 17:07:41 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/de/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hive Blog</title>
+      <link>https://rubenstorm.github.io/de/pages/social-media/hive-blog/</link>
+      <pubDate>Wed, 11 Sep 2024 17:07:41 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/pages/social-media/hive-blog/</guid>
+      <description>Wandere mit mir durch die Welt: Über 7 Jahre nomadisches Reisen und minimalistisches Leben</description>
+    </item>
+  </channel>
+</rss>

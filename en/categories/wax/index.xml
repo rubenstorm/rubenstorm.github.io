@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wax on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/categories/wax/</link>
+    <description>Recent content in Wax on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 26 Sep 2024 12:54:03 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/categories/wax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crypto Panda</title>
+      <link>https://rubenstorm.github.io/en/nft/crypto-panda/</link>
+      <pubDate>Fri, 06 Sep 2024 23:11:32 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/nft/crypto-panda/</guid>
+      <description>Crypto Panda NFT: A Digital Tribute to Panda Conservation</description>
+    </item>
+    <item>
+      <title>Travel Photo Collection</title>
+      <link>https://rubenstorm.github.io/en/nft/travel-photo-collection/</link>
+      <pubDate>Fri, 06 Sep 2024 23:09:46 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/nft/travel-photo-collection/</guid>
+      <description>Explore the World Through My Lens: Discover the Exclusive Travel Photo Collection on the Wax Network</description>
+    </item>
+    <item>
+      <title>Rottweiler Nala</title>
+      <link>https://rubenstorm.github.io/en/nft/rottweiler-nala/</link>
+      <pubDate>Fri, 06 Sep 2024 20:56:47 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/nft/rottweiler-nala/</guid>
+      <description>Immortalize Nala: Own a Unique NFT Tribute to My Beloved Rottweiler</description>
+    </item>
+  </channel>
+</rss>
