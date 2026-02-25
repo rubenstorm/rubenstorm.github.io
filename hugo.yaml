@@ -127,7 +127,6 @@ params:
       "linkedin",
       "twitter",
       "facebook",
-      "reddit",
       "whatsapp",
       "telegram",
     ] # To customize which share buttons to be enabled on page
