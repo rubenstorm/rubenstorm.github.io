@@ -28,7 +28,7 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
     image: "/images/header-contact-page.webp" # image path/url
-    alt: "Contact Me" # alt textc.webp" # 
+    alt: "" # alt textc.webp" # 
     caption: "" # display caption under coverc.webp" # 
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
