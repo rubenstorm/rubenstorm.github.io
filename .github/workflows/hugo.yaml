@@ -5,6 +5,10 @@ on:
     branches:
       - main   # Run this workflow on pushes to main
 
+permissions:
+  contents: write
+
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
