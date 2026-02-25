@@ -1,0 +1,45 @@
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main   # Run this workflow on pushes to main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Checkout repo, including submodules if your theme uses them
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      # 2️⃣ Setup Hugo Extended v0.156
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.156.0'
+          extended: true
+
+      # 3️⃣ Optional: Install Node/npm if your theme uses JS/SCSS
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      # 4️⃣ Build the Hugo site
+      - name: Build
+        run: |
+          npm install || true    # skip if no package.json
+          hugo --gc --minify
+
+      # 5️⃣ Deploy to GitHub Pages
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v5
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+
