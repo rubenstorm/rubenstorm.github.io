@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rubenstorm.github.io/sitemap.xml

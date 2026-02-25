@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rechtliche Seiten on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/de/pages/legal-pages/</link>
+    <description>Recent content in Rechtliche Seiten on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 13 Sep 2024 15:08:51 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/de/pages/legal-pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum</title>
+      <link>https://rubenstorm.github.io/de/pages/legal-pages/impressum/</link>
+      <pubDate>Fri, 13 Sep 2024 15:08:51 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/pages/legal-pages/impressum/</guid>
+      <description>Impressum von Ruben Storm</description>
+    </item>
+    <item>
+      <title>Allgemeine Bedingungen</title>
+      <link>https://rubenstorm.github.io/de/pages/legal-pages/terms-and-conditions/</link>
+      <pubDate>Fri, 13 Sep 2024 14:47:30 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/pages/legal-pages/terms-and-conditions/</guid>
+      <description>Allgemeine Bedingungen der Webseite</description>
+    </item>
+    <item>
+      <title>Haftungsausschluss</title>
+      <link>https://rubenstorm.github.io/de/pages/legal-pages/disclaimer/</link>
+      <pubDate>Fri, 13 Sep 2024 14:25:11 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/pages/legal-pages/disclaimer/</guid>
+      <description>Haftungsausschluss für Ruben Storm</description>
+    </item>
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://rubenstorm.github.io/de/pages/legal-pages/privacy-policy/</link>
+      <pubDate>Thu, 05 Sep 2024 22:44:45 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/pages/legal-pages/privacy-policy/</guid>
+      <description>Datenschutzerklärung für Ruben Storm</description>
+    </item>
+  </channel>
+</rss>

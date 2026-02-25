@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>About Me on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/about/</link>
+    <description>Recent content in About Me on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Oct 2024 21:51:03 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Journey to My Minimalist Lifestyle</title>
+      <link>https://rubenstorm.github.io/en/about/the-journey-to-my-minimalist-lifestyle/</link>
+      <pubDate>Wed, 02 Oct 2024 21:51:03 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/about/the-journey-to-my-minimalist-lifestyle/</guid>
+      <description>Simplicity is Strength: Carry Only What Matters.</description>
+    </item>
+    <item>
+      <title>The Path to My Nomadic Lifestyle</title>
+      <link>https://rubenstorm.github.io/en/about/the-path-to-my-nomadic-lifestyle/</link>
+      <pubDate>Wed, 02 Oct 2024 15:41:36 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/about/the-path-to-my-nomadic-lifestyle/</guid>
+      <description>From Captivity to Freedom: My Nomadic Life.</description>
+    </item>
+  </channel>
+</rss>

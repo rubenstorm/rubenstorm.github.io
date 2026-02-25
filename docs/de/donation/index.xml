@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spende on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/de/donation/</link>
+    <description>Recent content in Spende on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 12 Sep 2024 20:47:28 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/de/donation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitcoin-Spende</title>
+      <link>https://rubenstorm.github.io/de/donation/bitcoin-donation/</link>
+      <pubDate>Thu, 12 Sep 2024 20:47:28 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/donation/bitcoin-donation/</guid>
+      <description>Unterstütze meine Reise mit einer anonymen Bitcoin-Spende</description>
+    </item>
+    <item>
+      <title>PayPal-Spende</title>
+      <link>https://rubenstorm.github.io/de/donation/paypal-donation/</link>
+      <pubDate>Mon, 09 Sep 2024 21:17:41 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/donation/paypal-donation/</guid>
+      <description>Einmalige Spende über PayPal tätigen</description>
+    </item>
+    <item>
+      <title>Trx Tron Spende</title>
+      <link>https://rubenstorm.github.io/de/donation/trx-tron-donation/</link>
+      <pubDate>Mon, 09 Sep 2024 21:02:59 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/donation/trx-tron-donation/</guid>
+      <description>Unterstützung per TRX (Tron) Spende</description>
+    </item>
+    <item>
+      <title>Safepal Spende</title>
+      <link>https://rubenstorm.github.io/de/donation/safepal-donation/</link>
+      <pubDate>Mon, 09 Sep 2024 20:50:04 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/donation/safepal-donation/</guid>
+      <description>Unterstütze meine Arbeit mit SafePal-Spenden</description>
+    </item>
+    <item>
+      <title>Cronos Spende</title>
+      <link>https://rubenstorm.github.io/de/donation/cronos-donation/</link>
+      <pubDate>Mon, 09 Sep 2024 13:52:46 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/donation/cronos-donation/</guid>
+      <description>Unterstütze meine Arbeit mit einer anonymen Cronos-Spende.</description>
+    </item>
+    <item>
+      <title>Binance Coin Spende</title>
+      <link>https://rubenstorm.github.io/de/donation/binance-coin-donation/</link>
+      <pubDate>Sun, 08 Sep 2024 20:08:20 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/donation/binance-coin-donation/</guid>
+      <description>Unterstütze anonym mit BNB (BEP20): Spende an meine BSC-Wallet.</description>
+    </item>
+  </channel>
+</rss>

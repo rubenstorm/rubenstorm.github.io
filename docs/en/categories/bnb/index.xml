@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bnb on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/categories/bnb/</link>
+    <description>Recent content in Bnb on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 31 May 2025 13:07:37 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/categories/bnb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Binance (BSC)</title>
+      <link>https://rubenstorm.github.io/en/donation/binance-bsc/</link>
+      <pubDate>Sat, 31 May 2025 13:07:37 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/donation/binance-bsc/</guid>
+      <description>Support my work with fast, anonymous crypto donations via Binance Smart Chain (BEP20). Donate BNB, USDT, USDC, DAI, SafePal, or BUSD using StormQR — a clean, secure, and mobile-friendly QR code system.</description>
+    </item>
+    <item>
+      <title>Safepal Donation</title>
+      <link>https://rubenstorm.github.io/en/donation/safepal-donation/</link>
+      <pubDate>Mon, 09 Sep 2024 20:50:04 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/donation/safepal-donation/</guid>
+      <description>Support My Work with SafePal Donations</description>
+    </item>
+    <item>
+      <title>Binance Coin Donation</title>
+      <link>https://rubenstorm.github.io/en/donation/binance-coin-donation/</link>
+      <pubDate>Sun, 08 Sep 2024 20:08:20 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/donation/binance-coin-donation/</guid>
+      <description>Support Anonymously with BNB (BEP20): Donate to My BSC Wallet</description>
+    </item>
+  </channel>
+</rss>
