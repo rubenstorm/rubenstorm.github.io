@@ -26,9 +26,13 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
+menu: 
+    main:
+        weight: 60
+        name: contact
 cover:
-    image: "/images/header-contact.webp" # image path/url
-    alt: "header-contact.webp" # alt textc.webp" # 
+    image: "/images/header-contact-page.webp" # image path/url
+    alt: "Contact Me" # alt textc.webp" # 
     caption: "" # display caption under coverc.webp" # 
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
