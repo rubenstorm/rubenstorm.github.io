@@ -26,10 +26,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
-menu: 
-    main:
-        weight: 60
-        name: contact
 cover:
     image: "/images/header-contact-page.webp" # image path/url
     alt: "Contact Me" # alt textc.webp" # 
