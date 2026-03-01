@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nomad on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/categories/nomad/</link>
+    <description>Recent content in Nomad on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 24 May 2025 19:15:16 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/categories/nomad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nomadic Lifestyle FAQ</title>
+      <link>https://rubenstorm.github.io/en/faq/nomad-faq/</link>
+      <pubDate>Sat, 24 May 2025 19:15:16 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/faq/nomad-faq/</guid>
+      <description>Why did you decide to live a nomadic life? My nomadic journey began as a response to challenging circumstances at my...</description>
+    </item>
+    <item>
+      <title>The Path to My Nomadic Lifestyle</title>
+      <link>https://rubenstorm.github.io/en/about/the-path-to-my-nomadic-lifestyle/</link>
+      <pubDate>Wed, 02 Oct 2024 15:41:36 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/about/the-path-to-my-nomadic-lifestyle/</guid>
+      <description>From Captivity to Freedom: My Nomadic Life.</description>
+    </item>
+  </channel>
+</rss>

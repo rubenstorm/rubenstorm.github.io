@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ethereum on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/de/categories/ethereum/</link>
+    <description>Recent content in Ethereum on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 26 Sep 2024 11:45:09 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/de/categories/ethereum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Etheragon</title>
+      <link>https://rubenstorm.github.io/de/nft/etheragon/</link>
+      <pubDate>Thu, 26 Sep 2024 11:45:09 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/nft/etheragon/</guid>
+      <description>etheragon: Ein von Tansania inspiriertes Drachen-NFT im Ethereum-Netzwerk</description>
+    </item>
+  </channel>
+</rss>

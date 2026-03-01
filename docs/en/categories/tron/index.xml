@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tron on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/categories/tron/</link>
+    <description>Recent content in Tron on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 31 May 2025 12:49:02 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/categories/tron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tron Blockchain</title>
+      <link>https://rubenstorm.github.io/en/donation/tron-blockchain/</link>
+      <pubDate>Sat, 31 May 2025 12:49:02 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/donation/tron-blockchain/</guid>
+      <description>&lt;h1 id=&#34;tron-blockchain&#34;&gt;Tron Blockchain&lt;/h1&gt;
+&lt;h2 id=&#34;support-my-work&#34;&gt;Support My Work&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Tron&lt;/strong&gt; is a high-speed, low-fee blockchain network optimized for digital content, smart contracts, and decentralized applications. It uses the &lt;strong&gt;TRC20&lt;/strong&gt; token standard and is known for fast transactions and massive scalability. If you’d like to support my creative work, donating through &lt;strong&gt;Tron&lt;/strong&gt; is one of the most efficient ways to contribute.&lt;/p&gt;
+&lt;h3 id=&#34;-preferred-donation-coins&#34;&gt;💸 Preferred Donation Coins&lt;/h3&gt;
+&lt;p&gt;Donations are welcome in any of the following &lt;strong&gt;TRC20 tokens&lt;/strong&gt; on the Tron network:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trx Tron Donation</title>
+      <link>https://rubenstorm.github.io/en/donation/trx-tron-donation/</link>
+      <pubDate>Mon, 09 Sep 2024 21:02:59 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/donation/trx-tron-donation/</guid>
+      <description>Support with TRX (Tron) Donations</description>
+    </item>
+  </channel>
+</rss>

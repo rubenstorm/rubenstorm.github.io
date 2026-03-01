@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Social Media on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/pages/social-media/</link>
+    <description>Recent content in Social Media on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 06 Sep 2024 17:49:13 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/pages/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hive Blog</title>
+      <link>https://rubenstorm.github.io/en/pages/social-media/hive-blog/</link>
+      <pubDate>Fri, 06 Sep 2024 17:49:13 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/pages/social-media/hive-blog/</guid>
+      <description>Wander the World with Me: 7&#43; Years of Nomadic Travel and Minimalist Living</description>
+    </item>
+    <item>
+      <title>Facebook</title>
+      <link>https://rubenstorm.github.io/en/pages/social-media/facebook/</link>
+      <pubDate>Fri, 06 Sep 2024 17:17:41 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/pages/social-media/facebook/</guid>
+      <description>Join My Journey: Travel, Photos, and Lifestyle Adventures</description>
+    </item>
+    <item>
+      <title>Instagram</title>
+      <link>https://rubenstorm.github.io/en/pages/social-media/instagram/</link>
+      <pubDate>Fri, 06 Sep 2024 16:49:54 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/pages/social-media/instagram/</guid>
+      <description>Explore the World Through My Lens: Join the Adventure on Instagram!</description>
+    </item>
+    <item>
+      <title>TikTok</title>
+      <link>https://rubenstorm.github.io/en/pages/social-media/tiktok/</link>
+      <pubDate>Fri, 06 Sep 2024 15:34:50 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/pages/social-media/tiktok/</guid>
+      <description>Discover My Nomadic Journey: Adventures, Lifestyle, and Travel Stories</description>
+    </item>
+  </channel>
+</rss>

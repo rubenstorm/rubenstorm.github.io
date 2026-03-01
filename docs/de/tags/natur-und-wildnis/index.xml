@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Natur Und Wildnis on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/de/tags/natur-und-wildnis/</link>
+    <description>Recent content in Natur Und Wildnis on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 20 Nov 2024 17:48:45 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/de/tags/natur-und-wildnis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zurück nach Moshi</title>
+      <link>https://rubenstorm.github.io/de/posts/2024/2024-11-20-back-to-moshi-a-familiar-seat-three-months-later/</link>
+      <pubDate>Wed, 20 Nov 2024 17:48:45 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/posts/2024/2024-11-20-back-to-moshi-a-familiar-seat-three-months-later/</guid>
+      <description>Der gleiche Platz, drei Monate später</description>
+    </item>
+  </channel>
+</rss>

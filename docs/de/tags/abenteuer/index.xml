@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abenteuer on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/de/tags/abenteuer/</link>
+    <description>Recent content in Abenteuer on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 01 Jan 2025 13:10:14 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/de/tags/abenteuer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein letztes Abenteuer im Jahr 2024</title>
+      <link>https://rubenstorm.github.io/de/posts/2025/2025-01-01-my-last-adventure-of-2024/</link>
+      <pubDate>Wed, 01 Jan 2025 13:10:14 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/posts/2025/2025-01-01-my-last-adventure-of-2024/</guid>
+      <description>Das Jahr mit Schritten, Geschichten und atemberaubenden Ausblicken beenden</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nomad Life on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/tags/nomad-life/</link>
+    <description>Recent content in Nomad Life on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 May 2025 18:02:14 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/tags/nomad-life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Crypto Payment in Tanzania with Metamask</title>
+      <link>https://rubenstorm.github.io/en/news/2025/2025-05-27-first-crypto-payment-in-tanzania-with-metamask/</link>
+      <pubDate>Tue, 27 May 2025 18:02:14 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/news/2025/2025-05-27-first-crypto-payment-in-tanzania-with-metamask/</guid>
+      <description>Today marks a small but exciting milestone: I just made my first in-store payment in Tanzania using my MetaMask card!</description>
+    </item>
+  </channel>
+</rss>

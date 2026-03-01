@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Leben Mit Krypto on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/de/tags/leben-mit-krypto/</link>
+    <description>Recent content in Leben Mit Krypto on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 27 May 2025 18:02:14 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/de/tags/leben-mit-krypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erste Krypto-Zahlung in Tansania mit MetaMask</title>
+      <link>https://rubenstorm.github.io/de/news/2025/2025-05-27-first-crypto-payment-in-tanzania-with-metamask/</link>
+      <pubDate>Tue, 27 May 2025 18:02:14 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/de/news/2025/2025-05-27-first-crypto-payment-in-tanzania-with-metamask/</guid>
+      <description>Heute ist ein kleiner, aber spannender Meilenstein: Ich habe gerade meine **erste Zahlung in einem Geschäft in Tansania mit meiner MetaMask-Karte gemacht!</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lightning on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/tags/lightning/</link>
+    <description>Recent content in Lightning on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 28 Dec 2024 15:26:13 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/tags/lightning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the Changes in Nostr</title>
+      <link>https://rubenstorm.github.io/en/posts/2024/2024-12-28-navigating-the-changes-in-nostr-zaps-sats-and-the-end-of-albys-custodial-wallet/</link>
+      <pubDate>Sat, 28 Dec 2024 15:26:13 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/posts/2024/2024-12-28-navigating-the-changes-in-nostr-zaps-sats-and-the-end-of-albys-custodial-wallet/</guid>
+      <description>Zaps Sats and the End of Albys Custodial Wallet</description>
+    </item>
+  </channel>
+</rss>

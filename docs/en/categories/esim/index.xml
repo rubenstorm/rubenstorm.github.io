@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Esim on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/categories/esim/</link>
+    <description>Recent content in Esim on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 May 2025 17:19:42 +0300</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/categories/esim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phone &amp; eSim</title>
+      <link>https://rubenstorm.github.io/en/deals/phone-esim/</link>
+      <pubDate>Mon, 09 Sep 2024 22:58:07 +0300</pubDate>
+      <guid>https://rubenstorm.github.io/en/deals/phone-esim/</guid>
+      <description>Travel Smarter with eSIM: Instant Connectivity and Exclusive Discounts</description>
+    </item>
+  </channel>
+</rss>
