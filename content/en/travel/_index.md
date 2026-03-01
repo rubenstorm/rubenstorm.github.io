@@ -5,16 +5,8 @@ draft: false
 title: "Travel"
 description: "Embrace the Journey: Explore, Discover, and Live Minimally!"
 summary: "Since 2017, I have embraced travel, transitioning from part-time to full-time exploration in 2018 and adopting a minimalist lifestyle in 2020. I’ve discovered diverse cultures and stunning landscapes across Asia, Europe, and Africa, sharing my experiences through captivating stories and visuals. My journey reflects a commitment to nomadic living and a passion for exploring the world’s unique beauty."
-lang: en
 author: "Ruben Storm"
-menu: 
-    main:
-        weight: 10
-        name: travel
-    buttons:
-        weight: 10
 taxonomy: section
-kind: section
 ---
 ![][HeaderImage]
 

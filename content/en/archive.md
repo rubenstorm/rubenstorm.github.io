@@ -6,10 +6,6 @@ description: "Archive of Memories – Rediscover the Past."
 layout: "archives"
 url: "archives"
 summary: archives
-menu: 
-    main:
-        weight: 50
-        name: archive
 ---
 ![][defHeaderImage]
 

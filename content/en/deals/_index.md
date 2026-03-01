@@ -5,15 +5,9 @@ draft: false
 title: "Deals"
 description: "Unlock Exclusive Deals and Offers Just for You!"
 summary: "Discover exclusive deals and offers on my site. Use my links for special bonuses and support my work through commissions. Browse carefully selected options tailored just for you."
-lang: en
 author: Ruben Storm
 hideSitemap: false
-menu: 
-    main:
-        weight: 30
-        name: deals
 taxonomy: section
-kind: section
 ---
 ![][HeaderImage]
 

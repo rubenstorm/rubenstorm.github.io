@@ -33,6 +33,58 @@ languages:
       pagerSize: 10
       path: page
     weight: 1
+    menu:
+      main:
+        - identifier: about
+          name: Über
+          url: /de/about/
+          weight: 10
+        - identifier: travel
+          name: Reise
+          url: /de/travel/
+          weight: 20
+        - identifier: nft
+          name: NFT
+          url: /de/nft/
+          weight: 30
+        - identifier: deals
+          name: Angebote
+          url: /de/deals/
+          weight: 40
+        - identifier: donations
+          name: Spende
+          url: /de/donation/
+          weight: 45
+        - identifier: blog
+          name: Blog
+          url: /de/posts/
+          weight: 55
+        - identifier: search
+          name: Suche
+          url: /de/search/
+          weight: 60
+        - identifier: contactme
+          name: Kontakt
+          url: /de/pages/contact/
+          weight: 80
+        - identifier: sitemap
+          name: Sitemap
+          url: /de/sitemap
+          weight: 90
+      buttons:
+        - identifier: about
+          name: Über mich
+          url: /de/about/
+          weight: 10
+        - identifier: travel
+          name: Reise
+          url: /de/travel/
+          weight: 20
+        - identifier: news
+          name: News
+          url: /de/news/
+          weight: 30
+
   en:
     contentDir: content/en
     disabled: false
@@ -47,6 +99,57 @@ languages:
       pagerSize: 10
       path: page
     weight: 2
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /en/about/
+          weight: 10
+        - identifier: travel
+          name: Travel
+          url: /en/travel/
+          weight: 20
+        - identifier: nft
+          name: NFT
+          url: /en/nft/
+          weight: 30
+        - identifier: deals
+          name: Deals
+          url: /en/deals/
+          weight: 40
+        - identifier: donations
+          name: Donations
+          url: /en/donation/
+          weight: 45
+        - identifier: blog
+          name: Blog
+          url: /en/posts/
+          weight: 55
+        - identifier: search
+          name: Search
+          url: /en/search/
+          weight: 60
+        - identifier: contactme
+          name: Contact
+          url: /en/pages/contact/
+          weight: 80
+        - identifier: sitemap
+          name: Sitemap
+          url: /en/sitemap
+          weight: 90
+      buttons:
+        - identifier: about
+          name: About Me
+          url: /en/about/
+          weight: 10
+        - identifier: travel
+          name: Travel
+          url: /en/travel/
+          weight: 20
+        - identifier: news
+          name: News
+          url: /en/news/
+          weight: 30
 
 
 

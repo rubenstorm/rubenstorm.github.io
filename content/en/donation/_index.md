@@ -5,15 +5,9 @@ draft: false
 title: "Donation"
 description: "Support My Journey: Tips Appreciated for My Nomadic Adventures!"
 summary: "Enjoy my social media content? As a minimalist nomad, I create out of passion and appreciate any support you can offer. A small tip via PayPal or cryptocurrency helps me continue my journey. Thank you!"
-lang: en
 author: Ruben Storm
 hideSitemap: false
-menu: 
-    main:
-        weight: 40
-        name: donation
 taxonomy: section
-kind: section
 # {{< qrcode content="bitcoin:..." identifier="cronos" >}}
 ---
 ![][HeaderImage]

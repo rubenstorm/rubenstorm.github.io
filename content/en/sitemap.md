@@ -5,11 +5,9 @@ draft: false
 title: 'Sitemap'
 description: "Explore the Map: Your Guide to All Pages"
 summary: "Welcome to my Sitemap! Here, you'll find a complete overview of my website's pages, making it easy to navigate and discover content on travel, lifestyle, NFTs, and more."
-lang: en
 author: Ruben Storm
 categories: ['page', 'sitemap']
 taxonomy: page
-kind: page
 hideStormMap: true
 showToc: false
 TocOpen: false
@@ -31,10 +29,6 @@ cover:
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-menu: 
-    main:
-        weight: 90
-        name: sitemap
 ---
 
 Welcome to my Sitemap! This page serves as your navigation guide, providing a clear and comprehensive overview of all the sections on my website. Whether you're looking for travel tips, lifestyle insights, or the latest updates on NFTs and crypto, you'll find direct links to every page right here. Use this map to explore my content and discover new areas of interest.

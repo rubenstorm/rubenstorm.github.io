@@ -6,10 +6,6 @@ title: "NFT"
 description: "Die Welt der NFTs Entschlüsseln: Einzigartige Digitale Assets auf der Blockchain"
 summary: "NFTs, oder nicht-fungible Token, sind einzigartige digitale Vermögenswerte, die auf einer Blockchain gespeichert werden und Eigentum sowie Echtheit verifizieren. Sie können gekauft, verkauft und gehandelt werden, wobei jeder NFT unverwechselbar und nicht austauschbar ist."
 author: Ruben Storm
-menu: 
-    main:
-        weight: 20
-        name: nft
 taxonomy: section
 ---
 ![][HeaderImage]

@@ -5,17 +5,9 @@ draft: false
 title: "About Me"
 description: "Ruben Storm's Journey: From Part-Time Traveler to Full-Time Nomad and Minimalist"
 summary: "In 2017, Ruben Storm began part-time traveling and transitioned to full-time nomadism in 2018. An unexpected accident in 2020 led him to adopt a minimalist lifestyle. Explore Ruben’s journey through nomadism and minimalism and learn more about his unique experiences."
-lang: en
 author: Ruben Storm
 hideSitemap: false
-menu: 
-    main:
-        weight: 5
-        name: about
-    buttons:
-        weight: 5
 taxonomy: section
-kind: section
 ---
 ![][HeaderImage]
 

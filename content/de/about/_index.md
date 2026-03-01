@@ -5,16 +5,8 @@ draft: false
 title: "Über Mich"
 description: "Ruben Storms Reise: Vom Teilzeitreisenden zum Vollzeit-Nomaden und Minimalisten – Ein Weg zur Freiheit"
 summary: "Im Jahr 2017 begann Ruben Storm mit dem Teilzeitreisen und stellte 2018 auf Vollzeit-Nomadentum um. Ein unerwarteter Unfall im Jahr 2020 führte dazu, dass er den minimalistischen Lebensstil übernahm. Entdecken Sie Ruben Storms Reise vom Teilzeitreisenden zum Vollzeit-Nomaden und Minimalisten und erfahren Sie mehr über seine einzigartigen Erfahrungen und Erkenntnisse."
-lang: de
 author: Ruben Storm
-menu: 
-    main:
-        weight: 5
-        name: über
-    buttons:
-        weight: 5
 taxonomy: section
-kind: section
 ---
 ![][HeaderImage]
 

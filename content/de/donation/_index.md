@@ -5,15 +5,9 @@ draft: false
 title: "Spende"
 description: "Unterstützen Sie meine Reise: Trinkgelder werden für meine nomadischen Abenteuer geschätzt!"
 summary: "Gefällt Ihnen mein Content in den sozialen Medien? Als minimalistischer Nomade erstelle ich Inhalte aus Leidenschaft und schätze jede Unterstützung, die Sie mir anbieten können. Ein kleines Trinkgeld über PayPal oder Kryptowährung hilft mir, meine Reise fortzusetzen. Vielen Dank!"
-lang: de
 author: Ruben Storm
 hideSitemap: false
-menu: 
-    main:
-        weight: 40
-        name: spende
 taxonomy: section
-kind: section
 ---
 ![][HeaderImage]
 

@@ -5,15 +5,9 @@ draft: false
 title: "Deals"
 description: "Sichern Sie sich exklusive Angebote und Aktionen nur für Sie!"
 summary: "Entdecken Sie exklusive Angebote und Aktionen auf meiner Seite. Nutzen Sie meine Links für besondere Boni und unterstützen Sie meine Arbeit durch Provisionen. Stöbern Sie in sorgfältig ausgewählten Optionen, die speziell für Sie zusammengestellt wurden."
-lang: de
 author: Ruben Storm
 hideSitemap: false
-menu: 
-    main:
-        weight: 30
-        name: angebote
 taxonomy: section
-kind: section
 ---
 ![][HeaderImage]
 

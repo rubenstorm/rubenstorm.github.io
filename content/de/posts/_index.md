@@ -5,15 +5,9 @@ draft: false
 title: "Blog"
 description: "Unterwegs, Einfach, Zukunftsorientiert: Meine Reise durch Minimalismus, Abenteuer und die digitale Welt"
 summary: "Willkommen auf meinem Blog! Begleite mich, während ich die Welt durch Reisen, Minimalismus und die digitale Zukunft von NFTs und Krypto erkunde. Hier teile ich meine Erfahrungen, Tipps für ein einfacheres Leben und Einblicke in das nomadische Dasein. Lass uns diese Reise gemeinsam antreten!"
-lang: de
 author: Ruben Storm
 hideSitemap: true
-menu: 
-    main:
-        weight: 44
-        name: blog
 taxonomy: section
-kind: section
 ---
 ![][HeaderImage]
 

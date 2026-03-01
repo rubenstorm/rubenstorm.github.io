@@ -6,10 +6,6 @@ description: "Archiv der Erinnerungen – Vergangenes neu entdecken."
 layout: "archives"
 url: "archives"
 summary: archives
-menu: 
-    main:
-        weight: 50
-        name: archiv
 ---
 
 ![][defHeaderImage]

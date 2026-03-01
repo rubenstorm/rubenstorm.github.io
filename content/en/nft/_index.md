@@ -6,10 +6,6 @@ title: "NFT"
 description: "Unlocking the World of NFTs: Unique Digital Assets on the Blockchain"
 summary: "NFTs, or non-fungible tokens, are unique digital assets stored on a blockchain that verify ownership and authenticity. They can be bought, sold, and traded, with each NFT being distinct and irreplaceable."
 author: Ruben Storm
-menu: 
-    main:
-        weight: 20
-        name: nft
 taxonomy: section
 ---
 ![][HeaderImage]

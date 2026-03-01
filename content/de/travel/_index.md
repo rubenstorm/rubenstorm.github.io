@@ -5,16 +5,8 @@ draft: false
 title: "Reise"
 description: "Mach die Reise zu deinem Weg: Erkunde, Entdecke und Lebe minimalistisch!"
 summary: "Seit 2017 habe ich das Reisen in mein Leben integriert, zunächst in Teilzeit und ab 2018 als Vollzeit-Abenteurer. Im Jahr 2020 nahm ich einen minimalistischen Lebensstil an. Auf meiner Reise entdeckte ich die vielfältigen Kulturen und atemberaubenden Landschaften dieser Welt. Diese Erfahrungen teile ich durch fesselnde Geschichten und visuelle Eindrücke, die mein Bekenntnis zum nomadischen Leben und die Schönheit unserer Welt widerspiegeln."
-lang: de
 author: Ruben Storm
-menu: 
-    main:
-        weight: 10
-        name: reise
-    buttons:
-        weight: 10
 taxonomy: section
-kind: section
 ---
 ![][HeaderImage]
 
