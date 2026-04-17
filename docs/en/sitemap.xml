@@ -21,6 +21,60 @@
     <loc>https://rubenstorm.github.io/en/donation/tron-blockchain/</loc>
     <lastmod>2025-05-31T12:49:02+03:00</lastmod>
   </url><url>
+    <loc>https://rubenstorm.github.io/en/pages/contact/</loc>
+    <lastmod>2026-02-25T22:16:02+02:00</lastmod>
+  </url><url>
+    <loc>https://rubenstorm.github.io/en/categories/</loc>
+    <lastmod>2026-02-25T22:16:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://rubenstorm.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rubenstorm.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://rubenstorm.github.io/en/categories/contact/</loc>
+    <lastmod>2026-02-25T22:16:02+02:00</lastmod>
+  </url><url>
+    <loc>https://rubenstorm.github.io/en/</loc>
+    <lastmod>2026-02-25T22:16:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://rubenstorm.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rubenstorm.github.io/en/"
+                />
+  </url><url>
+    <loc>https://rubenstorm.github.io/en/categories/matrix/</loc>
+    <lastmod>2026-02-25T22:16:02+02:00</lastmod>
+  </url><url>
+    <loc>https://rubenstorm.github.io/en/categories/page/</loc>
+    <lastmod>2026-02-25T22:16:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://rubenstorm.github.io/de/categories/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rubenstorm.github.io/en/categories/page/"
+                />
+  </url><url>
+    <loc>https://rubenstorm.github.io/en/categories/simplex/</loc>
+    <lastmod>2026-02-25T22:16:02+02:00</lastmod>
+  </url><url>
+    <loc>https://rubenstorm.github.io/en/categories/xmpp/</loc>
+    <lastmod>2026-02-25T22:16:02+02:00</lastmod>
+  </url><url>
     <loc>https://rubenstorm.github.io/en/categories/binance/</loc>
     <lastmod>2025-05-31T13:07:37+03:00</lastmod>
     <xhtml:link
@@ -60,47 +114,8 @@
                 href="https://rubenstorm.github.io/en/categories/bsc/"
                 />
   </url><url>
-    <loc>https://rubenstorm.github.io/en/categories/</loc>
-    <lastmod>2025-05-31T13:07:37+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://rubenstorm.github.io/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://rubenstorm.github.io/en/categories/"
-                />
-  </url><url>
     <loc>https://rubenstorm.github.io/en/categories/donate/</loc>
     <lastmod>2025-05-31T13:07:37+03:00</lastmod>
-  </url><url>
-    <loc>https://rubenstorm.github.io/en/</loc>
-    <lastmod>2026-02-25T20:15:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://rubenstorm.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://rubenstorm.github.io/en/"
-                />
-  </url><url>
-    <loc>https://rubenstorm.github.io/en/categories/page/</loc>
-    <lastmod>2025-05-31T13:07:37+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://rubenstorm.github.io/de/categories/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://rubenstorm.github.io/en/categories/page/"
-                />
   </url><url>
     <loc>https://rubenstorm.github.io/en/categories/tron/</loc>
     <lastmod>2025-05-31T12:49:02+03:00</lastmod>

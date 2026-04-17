@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Sep 2024 15:01:51 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 22:16:02 +0200</lastBuildDate>
     <atom:link href="https://rubenstorm.github.io/en/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>https://rubenstorm.github.io/en/pages/contact/</link>
+      <pubDate>Tue, 24 Feb 2026 13:28:02 +0200</pubDate>
+      <guid>https://rubenstorm.github.io/en/pages/contact/</guid>
+      <description>I communicate only through decentralized platforms — SimpleX, XMPP, Matrix — with optional DMs on the Fediverse and Nostr.</description>
+    </item>
     <item>
       <title>Patreon</title>
       <link>https://rubenstorm.github.io/en/pages/patreon/</link>

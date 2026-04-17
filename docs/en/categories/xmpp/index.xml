@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xmpp on Ruben Storm</title>
+    <link>https://rubenstorm.github.io/en/categories/xmpp/</link>
+    <description>Recent content in Xmpp on Ruben Storm</description>
+    <image>
+      <title>Ruben Storm</title>
+      <url>https://rubenstorm.github.io/logos/rubenstorm-400.png</url>
+      <link>https://rubenstorm.github.io/logos/rubenstorm-400.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Feb 2026 22:16:02 +0200</lastBuildDate>
+    <atom:link href="https://rubenstorm.github.io/en/categories/xmpp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>https://rubenstorm.github.io/en/pages/contact/</link>
+      <pubDate>Tue, 24 Feb 2026 13:28:02 +0200</pubDate>
+      <guid>https://rubenstorm.github.io/en/pages/contact/</guid>
+      <description>I communicate only through decentralized platforms — SimpleX, XMPP, Matrix — with optional DMs on the Fediverse and Nostr.</description>
+    </item>
+  </channel>
+</rss>
