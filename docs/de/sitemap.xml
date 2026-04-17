@@ -15,6 +15,100 @@
                 href="https://rubenstorm.github.io/de/pages/legal-pages/"
                 />
   </url><url>
+    <loc>https://rubenstorm.github.io/de/pages/contact/</loc>
+    <lastmod>2026-03-01T17:15:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rubenstorm.github.io/en/pages/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://rubenstorm.github.io/de/pages/contact/"
+                />
+  </url><url>
+    <loc>https://rubenstorm.github.io/de/categories/</loc>
+    <lastmod>2026-03-01T17:15:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rubenstorm.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://rubenstorm.github.io/de/categories/"
+                />
+  </url><url>
+    <loc>https://rubenstorm.github.io/de/</loc>
+    <lastmod>2026-03-01T17:15:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rubenstorm.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://rubenstorm.github.io/de/"
+                />
+  </url><url>
+    <loc>https://rubenstorm.github.io/de/categories/kontakt/</loc>
+    <lastmod>2026-03-01T17:15:02+02:00</lastmod>
+  </url><url>
+    <loc>https://rubenstorm.github.io/de/categories/matrix/</loc>
+    <lastmod>2026-03-01T17:15:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rubenstorm.github.io/en/categories/matrix/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://rubenstorm.github.io/de/categories/matrix/"
+                />
+  </url><url>
+    <loc>https://rubenstorm.github.io/de/categories/page/</loc>
+    <lastmod>2026-03-01T17:15:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rubenstorm.github.io/en/categories/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://rubenstorm.github.io/de/categories/page/"
+                />
+  </url><url>
+    <loc>https://rubenstorm.github.io/de/categories/simplex/</loc>
+    <lastmod>2026-03-01T17:15:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rubenstorm.github.io/en/categories/simplex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://rubenstorm.github.io/de/categories/simplex/"
+                />
+  </url><url>
+    <loc>https://rubenstorm.github.io/de/categories/xmpp/</loc>
+    <lastmod>2026-03-01T17:15:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rubenstorm.github.io/en/categories/xmpp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://rubenstorm.github.io/de/categories/xmpp/"
+                />
+  </url><url>
     <loc>https://rubenstorm.github.io/de/tags/bitrefill/</loc>
     <lastmod>2025-05-27T18:02:14+03:00</lastmod>
     <xhtml:link
@@ -30,19 +124,6 @@
   </url><url>
     <loc>https://rubenstorm.github.io/de/tags/blockchain-technologie/</loc>
     <lastmod>2025-05-27T18:02:14+03:00</lastmod>
-  </url><url>
-    <loc>https://rubenstorm.github.io/de/categories/</loc>
-    <lastmod>2025-05-27T18:02:14+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://rubenstorm.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://rubenstorm.github.io/de/categories/"
-                />
   </url><url>
     <loc>https://rubenstorm.github.io/de/tags/defi/</loc>
     <lastmod>2025-05-27T18:02:14+03:00</lastmod>
@@ -71,19 +152,6 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="https://rubenstorm.github.io/de/news/2025/2025-05-27-first-crypto-payment-in-tanzania-with-metamask/"
-                />
-  </url><url>
-    <loc>https://rubenstorm.github.io/de/</loc>
-    <lastmod>2026-02-25T20:15:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://rubenstorm.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://rubenstorm.github.io/de/"
                 />
   </url><url>
     <loc>https://rubenstorm.github.io/de/tags/krypto-adoption/</loc>
@@ -197,19 +265,6 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="https://rubenstorm.github.io/de/categories/deals/"
-                />
-  </url><url>
-    <loc>https://rubenstorm.github.io/de/categories/page/</loc>
-    <lastmod>2025-05-27T17:24:42+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://rubenstorm.github.io/en/categories/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://rubenstorm.github.io/de/categories/page/"
                 />
   </url><url>
     <loc>https://rubenstorm.github.io/de/tags/alby/</loc>

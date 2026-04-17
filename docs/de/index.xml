@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.156.0</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 27 May 2025 18:02:14 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 17:15:02 +0200</lastBuildDate>
     <atom:link href="https://rubenstorm.github.io/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>https://rubenstorm.github.io/de/pages/contact/</link>
+      <pubDate>Sun, 01 Mar 2026 17:15:02 +0200</pubDate>
+      <guid>https://rubenstorm.github.io/de/pages/contact/</guid>
+      <description>Ich kommuniziere ausschließlich über dezentrale Plattformen — SimpleX, XMPP und Matrix — sowie optional per Direktnachricht im Fediverse und auf Nostr.</description>
+    </item>
     <item>
       <title>Erste Krypto-Zahlung in Tansania mit MetaMask</title>
       <link>https://rubenstorm.github.io/de/news/2025/2025-05-27-first-crypto-payment-in-tanzania-with-metamask/</link>

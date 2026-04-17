@@ -11,8 +11,43 @@
     </image>
     <generator>Hugo -- 0.156.0</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 27 May 2025 18:02:14 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 17:15:02 +0200</lastBuildDate>
     <atom:link href="https://rubenstorm.github.io/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>https://rubenstorm.github.io/de/categories/kontakt/</link>
+      <pubDate>Sun, 01 Mar 2026 17:15:02 +0200</pubDate>
+      <guid>https://rubenstorm.github.io/de/categories/kontakt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matrix</title>
+      <link>https://rubenstorm.github.io/de/categories/matrix/</link>
+      <pubDate>Sun, 01 Mar 2026 17:15:02 +0200</pubDate>
+      <guid>https://rubenstorm.github.io/de/categories/matrix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Page</title>
+      <link>https://rubenstorm.github.io/de/categories/page/</link>
+      <pubDate>Sun, 01 Mar 2026 17:15:02 +0200</pubDate>
+      <guid>https://rubenstorm.github.io/de/categories/page/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simplex</title>
+      <link>https://rubenstorm.github.io/de/categories/simplex/</link>
+      <pubDate>Sun, 01 Mar 2026 17:15:02 +0200</pubDate>
+      <guid>https://rubenstorm.github.io/de/categories/simplex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xmpp</title>
+      <link>https://rubenstorm.github.io/de/categories/xmpp/</link>
+      <pubDate>Sun, 01 Mar 2026 17:15:02 +0200</pubDate>
+      <guid>https://rubenstorm.github.io/de/categories/xmpp/</guid>
+      <description></description>
+    </item>
     <item>
       <title>News</title>
       <link>https://rubenstorm.github.io/de/categories/news/</link>
@@ -39,13 +74,6 @@
       <link>https://rubenstorm.github.io/de/categories/deals/</link>
       <pubDate>Sat, 24 May 2025 18:04:26 +0300</pubDate>
       <guid>https://rubenstorm.github.io/de/categories/deals/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Page</title>
-      <link>https://rubenstorm.github.io/de/categories/page/</link>
-      <pubDate>Sat, 24 May 2025 18:04:26 +0300</pubDate>
-      <guid>https://rubenstorm.github.io/de/categories/page/</guid>
       <description></description>
     </item>
     <item>
