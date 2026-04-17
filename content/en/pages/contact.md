@@ -50,8 +50,11 @@ It is designed to minimize metadata and maximize anonymity.
 
 ➡ Use SimpleX to contact me securely and directly.
 
-👉 [Message me on SimpleX][defSimpleX]
+👉 _SimpleX not available_
 
+_I got Robbed in Namibia and my Phone was stolen, please use the other possibilities. My Backup was encrypted on the SD Card that got stolen._
+
+More Informations in my [Blog](https://hive.blog/namibia/@rubenstorm/update-arrests-made-after-the-robbery-in-windhoek)
 
 ---
 
@@ -68,7 +71,7 @@ Supports encryption via OMEMO.
 
 ---
 
-### 🌐 Matrix
+### 🌐 Matrix 
 
 Matrix is a modern decentralized communication network for real-time messaging.  
 It supports federation, end-to-end encryption, and cross-server communication.

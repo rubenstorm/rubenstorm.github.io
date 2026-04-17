@@ -50,7 +50,11 @@ Es ist darauf ausgelegt, Metadaten zu minimieren und Anonymität zu maximieren.
 
 ➡ Nutze SimpleX, um mich sicher und direkt zu kontaktieren.
 
-👉 [Schreibe mir auf SimpleX][defSimpleX]
+👉 _SimpleX nicht mehr verfügbar_
+
+_Ich wurde Opfer eines bewaffenten Raubüberfalls. Die Datensicherung ist ebenfalls weg._
+
+Mehr im [Blog](https://hive.blog/namibia/@rubenstorm/update-arrests-made-after-the-robbery-in-windhoek) auf englisch
 
 ---
 
